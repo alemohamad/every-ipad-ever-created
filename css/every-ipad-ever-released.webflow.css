@@ -1,0 +1,381 @@
+.w-layout-grid {
+  grid-row-gap: 16px;
+  grid-column-gap: 16px;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+
+body {
+  color: #000;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 16px;
+  line-height: 1.2em;
+}
+
+h1 {
+  margin: 0 40px 24px;
+  padding-top: 24px;
+  font-size: 64px;
+  font-weight: 500;
+  line-height: 1.2em;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.header {
+  width: 100%;
+  padding-bottom: 23px;
+  position: fixed;
+  inset: 0% 0% auto;
+}
+
+.description {
+  max-width: 750px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 21px;
+  line-height: 1.2em;
+}
+
+.devices {
+  background-color: #fff;
+  margin-top: 270px;
+  margin-bottom: 100px;
+  padding-bottom: 26px;
+  display: inline-block;
+  position: relative;
+}
+
+.footer {
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  backdrop-filter: saturate(180%) blur(12px);
+  background-color: #fffc;
+  justify-content: space-between;
+  width: 100%;
+  padding: 24px;
+  font-size: 12px;
+  display: flex;
+  position: fixed;
+  inset: auto auto 0% 0%;
+}
+
+.bold-text {
+  font-weight: 600;
+}
+
+.devices-grid {
+  grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+  grid-template-columns: 1fr;
+  grid-auto-flow: column;
+  place-items: start stretch;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.model-header {
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  backdrop-filter: saturate(180%) blur(12px);
+  background-color: #fffc;
+  padding: 16px 8px;
+  position: sticky;
+  top: 0;
+}
+
+.launch-date {
+  font-size: 11px;
+}
+
+.model {
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 1.6em;
+}
+
+.model-device {
+  justify-content: center;
+  align-items: flex-end;
+  height: 360px;
+  display: flex;
+}
+
+.model-device-pic {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.model-colors {
+  grid-column-gap: 12px;
+  grid-row-gap: 12px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  display: flex;
+}
+
+.color {
+  cursor: default;
+  background-color: #f5f5f7;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  box-shadow: inset 0 2px 5px #0000001a;
+}
+
+.color.space-gray-ipad-air-m2 {
+  background-color: #6b696e;
+}
+
+.color.blue-ipad-13-m4 {
+  background-color: #d7e5e6;
+}
+
+.color.purple-ipad-air-m2 {
+  background-color: #e3dee9;
+}
+
+.color.starlight-ipad-air-m2 {
+  background-color: #e3dcd1;
+}
+
+.color.space-black-ipad-m4 {
+  background-color: #2e2c2e;
+}
+
+.color.silver-ipad-m4, .color.silver-ipad-10 {
+  background-color: #e3e4e5;
+}
+
+.color.pink-ipad-10 {
+  background-color: #de6274;
+}
+
+.color.blue-ipad-10 {
+  background-color: #6480a3;
+}
+
+.color.yellow-ipad-10 {
+  background-color: #f0d95b;
+}
+
+.color.space-gray-ipad-air-5 {
+  background-color: #6b696e;
+}
+
+.color.blue-ipad-air-5 {
+  background-color: #88aebf;
+}
+
+.color.pink-ipad-air-5 {
+  background-color: #e8d2cf;
+}
+
+.color.purple-ipad-air-5 {
+  background-color: #b9b8d1;
+}
+
+.color.starlight-ipad-air-5 {
+  background-color: #e5e0d8;
+}
+
+.color.space-gray-ipad-9 {
+  background-color: #68696e;
+}
+
+.color.silver-ipad-9 {
+  background-color: #e2e3e4;
+}
+
+.color.space-gray-ipad-mini-6 {
+  background-color: #6b696e;
+}
+
+.color.starlight-ipad-mini-6 {
+  background-color: #e3dcd1;
+}
+
+.color.pink-ipad-mini-6 {
+  background-color: #e8d1cf;
+}
+
+.color.purple-ipad-mini-6 {
+  background-color: #b9b8d1;
+}
+
+.color.space-gray-ipad-pro, .color.space-gray-ipad-air-4 {
+  background-color: #68696d;
+}
+
+.color.silver-ipad-air-4 {
+  background-color: #e2e3e4;
+}
+
+.color.rose-gold-ipad-air-4 {
+  background-color: #ecc5c1;
+}
+
+.color.sky-blue-ipad-air-4 {
+  background-color: #cee3f6;
+}
+
+.color.green-ipad-air-4 {
+  background-color: #ccdfc9;
+}
+
+.color.gold-ipad-8 {
+  background-color: #f6cdb9;
+}
+
+.color.space-gray-ipad-6 {
+  background-color: #b1b2b7;
+}
+
+.color.silver-ipad-6 {
+  background-color: #e2e3e4;
+}
+
+.color.gold-ipad-6 {
+  background-color: #f6cdb9;
+}
+
+.color.gold-ipad-air-2 {
+  background-color: #e3ccb4;
+}
+
+.color.black-ipad {
+  background-color: #000;
+}
+
+.color.white-ipad {
+  background-color: #f4f4f6;
+}
+
+.color.black-slate-ipad-mini {
+  background-color: #1f2020;
+}
+
+.color.white-silver-ipad-mini {
+  background-color: #f4f4f6;
+}
+
+.model-content {
+  width: 350px;
+  padding-top: 20px;
+}
+
+.model-screen-size {
+  text-align: center;
+  font-size: 68px;
+  font-weight: 600;
+  line-height: 1.2em;
+}
+
+.model-screen-detail {
+  text-align: center;
+  margin-top: 17px;
+  font-weight: 500;
+}
+
+.model-screen-detail.hidden {
+  opacity: 0;
+}
+
+.content-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.device-support-status {
+  color: #fff;
+  background-color: #000;
+  border-radius: 20px;
+  padding: 4px 16px;
+  display: inline-block;
+}
+
+.device-support-status.vintage {
+  background-color: #999;
+}
+
+.device-support-status.obsolete {
+  color: #000;
+  background-color: #ccc;
+}
+
+.highlighted-title {
+  text-align: center;
+  font-size: 42px;
+  font-weight: 600;
+  line-height: 1.2em;
+}
+
+.empty {
+  opacity: 0;
+}
+
+@media screen and (max-width: 991px) {
+  h1 {
+    font-size: 42px;
+  }
+
+  .description {
+    font-size: 18px;
+  }
+
+  .heading {
+    font-size: 48px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  h1 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .description {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 17px;
+  }
+
+  .devices-grid {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  h1 {
+    font-size: 32px;
+  }
+
+  .description {
+    font-size: 14px;
+  }
+
+  .devices {
+    margin-top: 300px;
+  }
+
+  .heading-2 {
+    font-size: 32px;
+  }
+}
+
+#w-node-_273a7a4f-183a-ff07-3012-507d154fa801-59bbaaed, #w-node-f4635cdd-c952-e893-b58a-12d1e1771f78-59bbaaed, #w-node-fab9f76d-9507-f6f2-1e73-f13c80ad2574-59bbaaed, #w-node-_12e57b42-3b3e-b646-5766-394e5a2d4496-59bbaaed, #w-node-_01abe2b3-fb99-c497-b084-8c011b75d47d-59bbaaed, #w-node-_4fddfc45-56d7-2453-25c6-c239a361b834-59bbaaed, #w-node-_045ea93d-3d82-2707-04e8-96d6695ee2ea-59bbaaed, #w-node-b6fa18a4-848e-7557-9912-6b05cd162175-59bbaaed, #w-node-cf38d0bf-b3aa-f0c6-5bcd-e7b7e25227a6-59bbaaed, #w-node-fdb1813f-746f-eae1-05c1-58208fed5ec3-59bbaaed, #w-node-_51cb1097-24cf-6236-6b3a-dcc5f67e529d-59bbaaed, #w-node-_5dcab849-3690-36ad-3093-fa4a56681ab0-59bbaaed, #w-node-bc9c506e-d7f9-bd4a-8e71-56d53745bcf9-59bbaaed, #w-node-_24d002cd-b680-e0e6-625a-c218df1157f9-59bbaaed, #w-node-_4707b715-7926-bc1e-8a47-fd4fe6869f41-59bbaaed, #w-node-ca5bba73-fa02-28f9-949e-c1aaefd75f8f-59bbaaed, #w-node-_376cc42b-cb30-a04e-7c54-c9d87e937bab-59bbaaed, #w-node-_40c1c26c-c69d-5981-6f02-fa8cdafc2240-59bbaaed, #w-node-e7847fa3-e9c5-a10a-6622-d321e74ca688-59bbaaed, #w-node-d5c4a5ff-657e-402c-123d-7a2edbed679b-59bbaaed, #w-node-_4bf6cac3-a0e6-be7b-4bb5-4fc4d3c3af56-59bbaaed, #w-node-_2a3af3b9-519f-7a41-63d3-c8f6bf5f92fd-59bbaaed, #w-node-_513c1b19-2561-70d3-785c-7a43f322c004-59bbaaed, #w-node-c24af04b-6f9f-ed65-ac9d-73bee836facf-59bbaaed {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+
