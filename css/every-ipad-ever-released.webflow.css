@@ -332,10 +332,6 @@ a:hover {
   .description {
     font-size: 18px;
   }
-
-  .heading {
-    font-size: 48px;
-  }
 }
 
 @media screen and (max-width: 767px) {
@@ -367,10 +363,6 @@ a:hover {
 
   .devices {
     margin-top: 300px;
-  }
-
-  .heading-2 {
-    font-size: 32px;
   }
 }
 
