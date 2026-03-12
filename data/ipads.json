@@ -1,0 +1,4982 @@
+{
+  "ipads": [
+    {
+      "id": "ipad-pro-13-m5",
+      "model": "iPad Pro 13″ (M5)",
+      "launchYear": 2025,
+      "device": "ipad_pro_13_m4.jpg",
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "display": {
+        "size": "13″",
+        "type": "Ultra Retina XDR display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating",
+          "Nano-texture display glass option on\n1TB and 2TB models"
+        ]
+      },
+      "chip": {
+        "image": "chip_m5.png",
+        "name": "M5 chip",
+        "features": [
+          "Up to 10-core CPU",
+          "10-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadpro13_gen7_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video, ProRes"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 26",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "thunderbolt_and_port_usb_c.png",
+        "type": "USB-C connector with support for\nThunderbolt / USB 4"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Four studio-quality microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "7_square_wifi.png",
+        "label": "Wi-Fi 7"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_m4_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\nfor iPad Pro"
+        ]
+      },
+      "capacity": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 11.09,
+          "mm": 281.6
+        },
+        "width": {
+          "inches": 8.48,
+          "mm": 215.5
+        },
+        "depth": {
+          "inches": 0.2,
+          "mm": 5.1
+        },
+        "weightWifi": {
+          "pounds": 1.28,
+          "grams": 579
+        },
+        "weightCellular": {
+          "pounds": 1.28,
+          "grams": 582
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-11-m5",
+      "model": "iPad Pro 11″ (M5)",
+      "launchYear": 2025,
+      "device": "ipad_pro_11_m4_spaceblack.jpg",
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "display": {
+        "size": "11″",
+        "type": "Ultra Retina XDR display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating",
+          "Nano-texture display glass option on\n1TB and 2TB models"
+        ]
+      },
+      "chip": {
+        "image": "chip_m5.png",
+        "name": "M5 chip",
+        "features": [
+          "Up to 10-core CPU",
+          "10-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadpro13_gen7_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video, ProRes"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 26",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "thunderbolt_and_port_usb_c.png",
+        "type": "USB-C connector with support for\nThunderbolt / USB 4"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Four studio-quality microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "7_square_wifi.png",
+        "label": "Wi-Fi 7"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_m4_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\nfor iPad Pro"
+        ]
+      },
+      "capacity": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.83,
+          "mm": 249.7
+        },
+        "width": {
+          "inches": 6.99,
+          "mm": 177.5
+        },
+        "depth": {
+          "inches": 0.21,
+          "mm": 5.3
+        },
+        "weightWifi": {
+          "pounds": 0.98,
+          "grams": 444
+        },
+        "weightCellular": {
+          "pounds": 0.98,
+          "grams": 446
+        }
+      }
+    },
+    {
+      "id": "ipad-air-13-m3",
+      "model": "iPad Air 13″ (M3)",
+      "launchYear": 2025,
+      "device": "ipad_air_13_m2_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1"
+        }
+      ],
+      "display": {
+        "size": "13″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m3.png",
+        "name": "M3 chip",
+        "features": [
+          "8-core CPU",
+          "9-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 18",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6e_square_wifi.png",
+        "label": "Wi-Fi 6E"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\nfor iPad Air"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 11.04,
+          "mm": 280.6
+        },
+        "width": {
+          "inches": 8.46,
+          "mm": 214.9
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 1.36,
+          "grams": 616
+        },
+        "weightCellular": {
+          "pounds": 1.36,
+          "grams": 617
+        }
+      }
+    },
+    {
+      "id": "ipad-air-11-m3",
+      "model": "iPad Air 11″ (M3)",
+      "launchYear": 2025,
+      "device": "ipad_air_11_m2_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1"
+        }
+      ],
+      "display": {
+        "size": "11″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m3.png",
+        "name": "M3 chip",
+        "features": [
+          "8-core CPU",
+          "9-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 18",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6e_square_wifi.png",
+        "label": "Wi-Fi 6E"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\nfor iPad Air"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.74,
+          "mm": 247.6
+        },
+        "width": {
+          "inches": 7.02,
+          "mm": 178.5
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 1.01,
+          "grams": 460
+        },
+        "weightCellular": {
+          "pounds": 1.01,
+          "grams": 460
+        }
+      }
+    },
+    {
+      "id": "ipad-a16",
+      "model": "iPad (A16)",
+      "launchYear": 2025,
+      "device": "ipad_10th_gen_silver.jpg",
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        },
+        {
+          "name": "Pink",
+          "hex": "#de6274"
+        },
+        {
+          "name": "Blue",
+          "hex": "#6480a3"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#f0d95b"
+        }
+      ],
+      "display": {
+        "size": "11″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "sRGB color",
+          "True Tone"
+        ]
+      },
+      "chip": {
+        "image": "chip_a16_ipad.png",
+        "name": "A16 chip",
+        "features": [
+          "5-core CPU",
+          "4-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP\nCenter Stage camera",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 18",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6_square_wifi.png",
+        "label": "Wi-Fi 6"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen3_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(USB-C)",
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_m4_ipad.png",
+        "features": [
+          "Supports Magic Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.79,
+          "mm": 248.6
+        },
+        "width": {
+          "inches": 7.07,
+          "mm": 179.5
+        },
+        "depth": {
+          "inches": 0.28,
+          "mm": 7
+        },
+        "weightWifi": {
+          "pounds": 1.05,
+          "grams": 477
+        },
+        "weightCellular": {
+          "pounds": 1.06,
+          "grams": 481
+        }
+      }
+    },
+    {
+      "id": "ipad-mini-a17-pro",
+      "model": "iPad mini (A17 Pro)",
+      "launchYear": 2024,
+      "device": "ipad_mini_a17pro.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1"
+        }
+      ],
+      "display": {
+        "size": "8.3″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a17pro.png",
+        "name": "A17 Pro chip",
+        "features": [
+          "6-core CPU",
+          "5-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadmini_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "12MP Ultra Wide front camera\n&nbsp;",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 18",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6e_square_wifi.png",
+        "label": "Wi-Fi 6E"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 7.69,
+          "mm": 195.4
+        },
+        "width": {
+          "inches": 5.3,
+          "mm": 134.8
+        },
+        "depth": {
+          "inches": 0.25,
+          "mm": 6.3
+        },
+        "weightWifi": {
+          "pounds": 0.65,
+          "grams": 293
+        },
+        "weightCellular": {
+          "pounds": 0.66,
+          "grams": 297
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-13-m4",
+      "model": "iPad Pro 13″ (M4)",
+      "launchYear": 2024,
+      "device": "ipad_pro_13_m4.jpg",
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "display": {
+        "size": "13″",
+        "type": "Ultra Retina XDR display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating",
+          "Nano-texture display glass option on\n1TB and 2TB models"
+        ]
+      },
+      "chip": {
+        "image": "chip_m4.png",
+        "name": "M4 chip",
+        "features": [
+          "Up to 10-core CPU",
+          "10-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadpro13_gen7_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video, ProRes"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 17",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "thunderbolt_and_port_usb_c.png",
+        "type": "USB-C connector with support for\nThunderbolt / USB 4"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Four studio-quality microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6e_square_wifi.png",
+        "label": "Wi-Fi 6E"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_m4_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\nfor iPad Pro"
+        ]
+      },
+      "capacity": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 11.09,
+          "mm": 281.6
+        },
+        "width": {
+          "inches": 8.48,
+          "mm": 215.5
+        },
+        "depth": {
+          "inches": 0.2,
+          "mm": 5.1
+        },
+        "weightWifi": {
+          "pounds": 1.28,
+          "grams": 579
+        },
+        "weightCellular": {
+          "pounds": 1.28,
+          "grams": 582
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-11-m4",
+      "model": "iPad Pro 11″ (M4)",
+      "launchYear": 2024,
+      "device": "ipad_pro_11_m4_spaceblack.jpg",
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "display": {
+        "size": "11″",
+        "type": "Ultra Retina XDR display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating",
+          "Nano-texture display glass option on\n1TB and 2TB models"
+        ]
+      },
+      "chip": {
+        "image": "chip_m4.png",
+        "name": "M4 chip",
+        "features": [
+          "Up to 10-core CPU",
+          "10-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadpro13_gen7_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video, ProRes"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 17",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "thunderbolt_and_port_usb_c.png",
+        "type": "USB-C connector with support for\nThunderbolt / USB 4"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Four studio-quality microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6e_square_wifi.png",
+        "label": "Wi-Fi 6E"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_m4_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\nfor iPad Pro"
+        ]
+      },
+      "capacity": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.83,
+          "mm": 249.7
+        },
+        "width": {
+          "inches": 6.99,
+          "mm": 177.5
+        },
+        "depth": {
+          "inches": 0.21,
+          "mm": 5.3
+        },
+        "weightWifi": {
+          "pounds": 0.98,
+          "grams": 444
+        },
+        "weightCellular": {
+          "pounds": 0.98,
+          "grams": 446
+        }
+      }
+    },
+    {
+      "id": "ipad-air-13-m2",
+      "model": "iPad Air 13″ (M2)",
+      "launchYear": 2024,
+      "device": "ipad_air_13_m2_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1"
+        }
+      ],
+      "display": {
+        "size": "13″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m2.png",
+        "name": "M2 chip",
+        "features": [
+          "8-core CPU",
+          "9-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 18",
+        "shipped": "iPadOS 17",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6e_square_wifi.png",
+        "label": "Wi-Fi 6E"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 11.04,
+          "mm": 280.6
+        },
+        "width": {
+          "inches": 8.46,
+          "mm": 214.9
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 1.36,
+          "grams": 617
+        },
+        "weightCellular": {
+          "pounds": 1.36,
+          "grams": 618
+        }
+      }
+    },
+    {
+      "id": "ipad-air-11-m2",
+      "model": "iPad Air 11″ (M2)",
+      "launchYear": 2024,
+      "device": "ipad_air_11_m2_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1"
+        }
+      ],
+      "display": {
+        "size": "11″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m2.png",
+        "name": "M2 chip",
+        "features": [
+          "8-core CPU",
+          "9-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 17",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6e_square_wifi.png",
+        "label": "Wi-Fi 6E"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.74,
+          "mm": 247.6
+        },
+        "width": {
+          "inches": 7.02,
+          "mm": 178.5
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 1.02,
+          "grams": 462
+        },
+        "weightCellular": {
+          "pounds": 1.02,
+          "grams": 462
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-129-6th-gen",
+      "model": "iPad Pro 12.9″ (6th gen.)",
+      "launchYear": 2022,
+      "device": "ipad_pro_12_9_6th_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "display": {
+        "size": "12.9″",
+        "type": "Liquid Retina XDR display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m2.png",
+        "name": "M2 chip",
+        "features": [
+          "8-core CPU",
+          "10-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadpro11_gen4_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "10MP Ultra Wide camera",
+          "4K video, ProRes"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "12MP Ultra Wide front camera\n&nbsp;",
+          "Center Stage",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 16",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "thunderbolt_and_port_usb_c.png",
+        "type": "USB-C connector with support for\nThunderbolt / USB 4"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Five studio-quality microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6e_square_wifi.png",
+        "label": "Wi-Fi 6E"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\n&nbsp;",
+          "Supports Smart Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 11.04,
+          "mm": 280.6
+        },
+        "width": {
+          "inches": 8.46,
+          "mm": 214.9
+        },
+        "depth": {
+          "inches": 0.25,
+          "mm": 6.4
+        },
+        "weightWifi": {
+          "pounds": 1.5,
+          "grams": 682
+        },
+        "weightCellular": {
+          "pounds": 1.51,
+          "grams": 685
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-11-4th-gen",
+      "model": "iPad Pro 11″ (4th gen.)",
+      "launchYear": 2022,
+      "device": "ipad_pro_11_4th_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2e2c2e"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "display": {
+        "size": "11″",
+        "type": "Liquid Retina XDR display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m2.png",
+        "name": "M2 chip",
+        "features": [
+          "8-core CPU",
+          "10-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadpro11_gen4_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "10MP Ultra Wide camera",
+          "4K video, ProRes"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "12MP Ultra Wide front camera\n&nbsp;",
+          "Center Stage",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 16",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "thunderbolt_and_port_usb_c.png",
+        "type": "USB-C connector with support for\nThunderbolt / USB 4"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Five studio-quality microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6e_square_wifi.png",
+        "label": "Wi-Fi 6E"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\n&nbsp;",
+          "Supports Smart Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.74,
+          "mm": 247.6
+        },
+        "width": {
+          "inches": 7.02,
+          "mm": 178.5
+        },
+        "depth": {
+          "inches": 0.23,
+          "mm": 5.9
+        },
+        "weightWifi": {
+          "pounds": 1.03,
+          "grams": 466
+        },
+        "weightCellular": {
+          "pounds": 1.04,
+          "grams": 470
+        }
+      }
+    },
+    {
+      "id": "ipad-10th-gen",
+      "model": "iPad (10th gen.)",
+      "launchYear": 2022,
+      "device": "ipad_10th_gen_silver.jpg",
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        },
+        {
+          "name": "Pink",
+          "hex": "#de6274"
+        },
+        {
+          "name": "Blue",
+          "hex": "#6480a3"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#f0d95b"
+        }
+      ],
+      "display": {
+        "size": "10.9″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "sRGB color",
+          "True Tone"
+        ]
+      },
+      "chip": {
+        "image": "chip_a14_ipad.png",
+        "name": "A14 Bionic chip",
+        "features": [
+          "6-core CPU",
+          "4-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 16",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6_square_wifi.png",
+        "label": "Wi-Fi 6"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen3_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(USB-C)",
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_m4_ipad.png",
+        "features": [
+          "Supports Magic Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.79,
+          "mm": 248.6
+        },
+        "width": {
+          "inches": 7.07,
+          "mm": 179.5
+        },
+        "depth": {
+          "inches": 0.28,
+          "mm": 7
+        },
+        "weightWifi": {
+          "pounds": 1.05,
+          "grams": 477
+        },
+        "weightCellular": {
+          "pounds": 1.06,
+          "grams": 481
+        }
+      }
+    },
+    {
+      "id": "ipad-air-5th-gen",
+      "model": "iPad Air (5th gen.)",
+      "launchYear": 2022,
+      "device": "ipad_air_5th_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e"
+        },
+        {
+          "name": "Blue",
+          "hex": "#88aebf"
+        },
+        {
+          "name": "Pink",
+          "hex": "#e8d2cf"
+        },
+        {
+          "name": "Purple",
+          "hex": "#b9b8d1"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e5e0d8"
+        }
+      ],
+      "display": {
+        "size": "10.9″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m1.png",
+        "name": "M1 chip",
+        "features": [
+          "8-core CPU",
+          "8-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "12MP Ultra Wide front camera\n&nbsp;",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 15",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6_square_wifi.png",
+        "label": "Wi-Fi 6"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\n&nbsp;",
+          "Supports Smart Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.74,
+          "mm": 247.6
+        },
+        "width": {
+          "inches": 7.02,
+          "mm": 178.5
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 1.02,
+          "grams": 461
+        },
+        "weightCellular": {
+          "pounds": 1.02,
+          "grams": 462
+        }
+      }
+    },
+    {
+      "id": "ipad-9th-gen",
+      "model": "iPad (9th gen.)",
+      "launchYear": 2021,
+      "device": "ipad_9th_gen_space_gray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696e"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        }
+      ],
+      "display": {
+        "size": "10.2″",
+        "type": "Retina display",
+        "features": [
+          "&nbsp;",
+          "sRGB color",
+          "True Tone"
+        ]
+      },
+      "chip": {
+        "image": "chip_a13_ipad.png",
+        "name": "A13 Bionic chip",
+        "features": [
+          "6-core CPU",
+          "4-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "8MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "12MP Ultra Wide front camera\n&nbsp;",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 15",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "smartkeyboard_ipad.png",
+        "features": [
+          "Supports Smart Keyboard"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.8,
+          "mm": 250.6
+        },
+        "width": {
+          "inches": 6.8,
+          "mm": 174.1
+        },
+        "depth": {
+          "inches": 0.29,
+          "mm": 7.5
+        },
+        "weightWifi": {
+          "pounds": 1.07,
+          "grams": 487
+        },
+        "weightCellular": {
+          "pounds": 1.09,
+          "grams": 498
+        }
+      }
+    },
+    {
+      "id": "ipad-mini-6th-gen",
+      "model": "iPad mini (6th gen.)",
+      "launchYear": 2021,
+      "device": "ipad_mini_6th_gen_space_gray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1"
+        },
+        {
+          "name": "Pink",
+          "hex": "#e8d1cf"
+        },
+        {
+          "name": "Purple",
+          "hex": "#b9b8d1"
+        }
+      ],
+      "display": {
+        "size": "8.3″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a15_ipad.png",
+        "name": "A15 Bionic chip",
+        "features": [
+          "6-core CPU",
+          "5-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadmini_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "12MP Ultra Wide front camera\n&nbsp;",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 15",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6_square_wifi.png",
+        "label": "Wi-Fi 6"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 7.69,
+          "mm": 195.4
+        },
+        "width": {
+          "inches": 5.3,
+          "mm": 134.8
+        },
+        "depth": {
+          "inches": 0.25,
+          "mm": 6.3
+        },
+        "weightWifi": {
+          "pounds": 0.65,
+          "grams": 293
+        },
+        "weightCellular": {
+          "pounds": 0.66,
+          "grams": 297
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-129-5th-gen",
+      "model": "iPad Pro 12.9″ (5th gen.)",
+      "launchYear": 2021,
+      "device": "ipad_pro_12_9_5th_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        }
+      ],
+      "display": {
+        "size": "12.9″",
+        "type": "Liquid Retina display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m1.png",
+        "name": "M1 chip",
+        "features": [
+          "8-core CPU",
+          "8-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadpro11_gen4_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "10MP Ultra Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "12MP Ultra Wide front camera\n&nbsp;",
+          "Center Stage",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 14",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "thunderbolt_and_port_usb_c.png",
+        "type": "USB-C connector with support for\nThunderbolt / USB 4"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Five studio-quality microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6_square_wifi.png",
+        "label": "Wi-Fi 6"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\n&nbsp;",
+          "Supports Smart Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 11.04,
+          "mm": 280.6
+        },
+        "width": {
+          "inches": 8.46,
+          "mm": 214.9
+        },
+        "depth": {
+          "inches": 0.25,
+          "mm": 6.4
+        },
+        "weightWifi": {
+          "pounds": 1.5,
+          "grams": 682
+        },
+        "weightCellular": {
+          "pounds": 1.51,
+          "grams": 685
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-11-3rd-gen",
+      "model": "iPad Pro 11″ (3rd gen.)",
+      "launchYear": 2021,
+      "device": "ipad_pro_11_4th_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        }
+      ],
+      "display": {
+        "size": "11″",
+        "type": "Liquid Retina display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m1.png",
+        "name": "M1 chip",
+        "features": [
+          "8-core CPU",
+          "8-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadpro11_gen4_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "10MP Ultra Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "12MP Ultra Wide front camera\n&nbsp;",
+          "Center Stage",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 14",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "thunderbolt_and_port_usb_c.png",
+        "type": "USB-C connector with support for\nThunderbolt / USB 4"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Five studio-quality microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6_square_wifi.png",
+        "label": "Wi-Fi 6"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\n&nbsp;",
+          "Supports Smart Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.74,
+          "mm": 247.6
+        },
+        "width": {
+          "inches": 7.02,
+          "mm": 178.5
+        },
+        "depth": {
+          "inches": 0.23,
+          "mm": 5.9
+        },
+        "weightWifi": {
+          "pounds": 1.07,
+          "grams": 466
+        },
+        "weightCellular": {
+          "pounds": 1.04,
+          "grams": 470
+        }
+      }
+    },
+    {
+      "id": "ipad-air-4th-gen",
+      "model": "iPad Air (4th gen.)",
+      "launchYear": 2020,
+      "device": "ipad_air_4th_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Rose Gold",
+          "hex": "#ecc5c1"
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "#cee3f6"
+        },
+        {
+          "name": "Green",
+          "hex": "#ccdfc9"
+        }
+      ],
+      "display": {
+        "size": "10.9″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a14_ipad.png",
+        "name": "A14 Bionic chip",
+        "features": [
+          "6-core CPU",
+          "4-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "7MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 14",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6_square_wifi.png",
+        "label": "Wi-Fi 6"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\n&nbsp;",
+          "Supports Smart Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.74,
+          "mm": 247.6
+        },
+        "width": {
+          "inches": 7.02,
+          "mm": 178.5
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 1,
+          "grams": 458
+        },
+        "weightCellular": {
+          "pounds": 1.01,
+          "grams": 460
+        }
+      }
+    },
+    {
+      "id": "ipad-8th-gen",
+      "model": "iPad (8th gen.)",
+      "launchYear": 2020,
+      "device": "ipad_8thgen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#f6cdb9"
+        }
+      ],
+      "display": {
+        "size": "10.2″",
+        "type": "Retina display",
+        "features": []
+      },
+      "chip": {
+        "image": "chip_a12_ipad.png",
+        "name": "A12 Bionic chip",
+        "features": [
+          "6-core CPU",
+          "4-core GPU",
+          "8-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "8MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 14",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "smartkeyboard_ipad.png",
+        "features": [
+          "Supports Smart Keyboard"
+        ]
+      },
+      "capacity": [
+        "32GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.8,
+          "mm": 250.6
+        },
+        "width": {
+          "inches": 6.8,
+          "mm": 174.1
+        },
+        "depth": {
+          "inches": 0.29,
+          "mm": 7.5
+        },
+        "weightWifi": {
+          "pounds": 1.08,
+          "grams": 490
+        },
+        "weightCellular": {
+          "pounds": 1.09,
+          "grams": 495
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-129-4th-gen",
+      "model": "iPad Pro 12.9″ (4th gen.)",
+      "launchYear": 2020,
+      "device": "ipad_pro_12_9_4th_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        }
+      ],
+      "display": {
+        "size": "12.9″",
+        "type": "Liquid Retina display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a12z_ipad.png",
+        "name": "A12Z Bionic chip",
+        "features": [
+          "8-core CPU",
+          "8-core GPU",
+          "8-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadpro11_gen4_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "10MP Ultra Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "7MP front camera\n&nbsp;",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 13",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Five studio-quality microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6_square_wifi.png",
+        "label": "Wi-Fi 6"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\n&nbsp;",
+          "Supports Smart Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 11.04,
+          "mm": 280.6
+        },
+        "width": {
+          "inches": 8.46,
+          "mm": 214.9
+        },
+        "depth": {
+          "inches": 0.23,
+          "mm": 5.9
+        },
+        "weightWifi": {
+          "pounds": 1.41,
+          "grams": 641
+        },
+        "weightCellular": {
+          "pounds": 1.42,
+          "grams": 643
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-11-2nd-gen",
+      "model": "iPad Pro 11″ (2nd gen.)",
+      "launchYear": 2020,
+      "device": "ipad_pro_11_2nd_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        }
+      ],
+      "display": {
+        "size": "11″",
+        "type": "Liquid Retina display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a12z_ipad.png",
+        "name": "A12Z Bionic chip",
+        "features": [
+          "8-core CPU",
+          "8-core GPU",
+          "8-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadpro11_gen4_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "10MP Ultra Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "7MP front camera\n&nbsp;",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 13",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Five studio-quality microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "6_square_wifi.png",
+        "label": "Wi-Fi 6"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\n&nbsp;",
+          "Supports Smart Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.74,
+          "mm": 247.6
+        },
+        "width": {
+          "inches": 7.02,
+          "mm": 178.5
+        },
+        "depth": {
+          "inches": 0.23,
+          "mm": 5.9
+        },
+        "weightWifi": {
+          "pounds": 1.04,
+          "grams": 471
+        },
+        "weightCellular": {
+          "pounds": 1.04,
+          "grams": 473
+        }
+      }
+    },
+    {
+      "id": "ipad-7th-gen",
+      "model": "iPad (7th gen.)",
+      "launchYear": 2020,
+      "device": "ipad_7thgen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#f6cdb9"
+        }
+      ],
+      "display": {
+        "size": "10.2″",
+        "type": "Retina display",
+        "features": []
+      },
+      "chip": {
+        "image": "chip_a10_ipad.png",
+        "name": "A10 Fusion chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "8MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 18",
+        "shipped": "iPadOS 13",
+        "status": "Vintage"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "smartkeyboard_ipad.png",
+        "features": [
+          "Supports Smart Keyboard"
+        ]
+      },
+      "capacity": [
+        "32GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.8,
+          "mm": 250.6
+        },
+        "width": {
+          "inches": 6.8,
+          "mm": 174.1
+        },
+        "depth": {
+          "inches": 0.29,
+          "mm": 7.5
+        },
+        "weightWifi": {
+          "pounds": 1.07,
+          "grams": 483
+        },
+        "weightCellular": {
+          "pounds": 1.09,
+          "grams": 493
+        }
+      }
+    },
+    {
+      "id": "ipad-air-3rd-gen",
+      "model": "iPad Air (3rd gen.)",
+      "launchYear": 2019,
+      "device": "ipad_air_3rd_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#f6cdb9"
+        }
+      ],
+      "display": {
+        "size": "10.5″",
+        "type": "Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a12_ipad.png",
+        "name": "A12 Bionic chip",
+        "features": [
+          "6-core CPU",
+          "4-core GPU",
+          "8-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "8MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "7MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iOS 12",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "smartkeyboard_ipad.png",
+        "features": [
+          "Supports Smart Keyboard"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.8,
+          "mm": 250.6
+        },
+        "width": {
+          "inches": 6.8,
+          "mm": 174.1
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 1,
+          "grams": 456
+        },
+        "weightCellular": {
+          "pounds": 1.02,
+          "grams": 464
+        }
+      }
+    },
+    {
+      "id": "ipad-mini-5th-gen",
+      "model": "iPad mini (5th gen.)",
+      "launchYear": 2019,
+      "device": "ipad_mini_5th_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#f6cdb9"
+        }
+      ],
+      "display": {
+        "size": "7.9″",
+        "type": "Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a12_ipad.png",
+        "name": "A12 Bionic chip",
+        "features": [
+          "6-core CPU",
+          "4-core GPU",
+          "8-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "8MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "7MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iOS 12",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 8,
+          "mm": 203.2
+        },
+        "width": {
+          "inches": 5.3,
+          "mm": 134.8
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 0.66,
+          "grams": 300.5
+        },
+        "weightCellular": {
+          "pounds": 0.68,
+          "grams": 308.2
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-129-3rd-gen",
+      "model": "iPad Pro 12.9″ (3rd gen.)",
+      "launchYear": 2018,
+      "device": "ipad_pro_12_9_3rd_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        }
+      ],
+      "display": {
+        "size": "12.9″",
+        "type": "Liquid Retina display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a12x_ipad.png",
+        "name": "A12X Bionic chip",
+        "features": [
+          "8-core CPU",
+          "7-core GPU",
+          "8-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadmini_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "7MP front camera\n&nbsp;",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iOS 12",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Five microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\n&nbsp;",
+          "Supports Smart Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 11.04,
+          "mm": 280.6
+        },
+        "width": {
+          "inches": 8.46,
+          "mm": 214.9
+        },
+        "depth": {
+          "inches": 0.23,
+          "mm": 5.9
+        },
+        "weightWifi": {
+          "pounds": 1.39,
+          "grams": 631
+        },
+        "weightCellular": {
+          "pounds": 1.4,
+          "grams": 633
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-11-1st-gen",
+      "model": "iPad Pro 11″ (1st gen.)",
+      "launchYear": 2018,
+      "device": "ipad_pro_11_1st_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        }
+      ],
+      "display": {
+        "size": "11″",
+        "type": "Liquid Retina display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a12x_ipad.png",
+        "name": "A12X Bionic chip",
+        "features": [
+          "8-core CPU",
+          "7-core GPU",
+          "8-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadmini_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "7MP front camera\n&nbsp;",
+          "TrueDepth camera system"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iOS 12",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Face ID",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Five microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil\n(2nd generation)",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\n&nbsp;",
+          "Supports Smart Keyboard Folio"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.74,
+          "mm": 247.8
+        },
+        "width": {
+          "inches": 7.02,
+          "mm": 178.5
+        },
+        "depth": {
+          "inches": 0.23,
+          "mm": 5.9
+        },
+        "weightWifi": {
+          "pounds": 1.03,
+          "grams": 468
+        },
+        "weightCellular": {
+          "pounds": 1.03,
+          "grams": 468
+        }
+      }
+    },
+    {
+      "id": "ipad-6th-gen",
+      "model": "iPad (6th gen.)",
+      "launchYear": 2018,
+      "device": "ipad_6thgen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Rose Gold",
+          "hex": "#f6cdb9"
+        }
+      ],
+      "display": {
+        "size": "9.7″",
+        "type": "Retina display",
+        "features": []
+      },
+      "chip": {
+        "image": "chip_a10_ipad.png",
+        "name": "A10 Fusion chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "8MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 17",
+        "shipped": "iOS 11",
+        "status": "Vintage"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "32GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.4,
+          "mm": 240
+        },
+        "width": {
+          "inches": 6.6,
+          "mm": 169.5
+        },
+        "depth": {
+          "inches": 0.29,
+          "mm": 7.5
+        },
+        "weightWifi": {
+          "pounds": 1.03,
+          "grams": 469
+        },
+        "weightCellular": {
+          "pounds": 1.05,
+          "grams": 478
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-129-2nd-gen",
+      "model": "iPad Pro 12.9″ (2nd gen.)",
+      "launchYear": 2017,
+      "device": "ipad_pro_12_9_2ndgen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#e3ccb4"
+        }
+      ],
+      "display": {
+        "size": "12.9″",
+        "type": "Retina display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a10x_ipad.png",
+        "name": "A10X Fusion chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "7MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 17",
+        "shipped": "iOS 10",
+        "status": "Vintage"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "smartkeyboard_ipad.png",
+        "features": [
+          "Supports Smart Keyboard"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB",
+        "512GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 12,
+          "mm": 305.7
+        },
+        "width": {
+          "inches": 8.68,
+          "mm": 220.6
+        },
+        "depth": {
+          "inches": 0.27,
+          "mm": 6.9
+        },
+        "weightWifi": {
+          "pounds": 1.49,
+          "grams": 677
+        },
+        "weightCellular": {
+          "pounds": 1.53,
+          "grams": 692
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-105",
+      "model": "iPad Pro 10.5″",
+      "launchYear": 2017,
+      "device": "ipad_pro_10_5_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#e3ccb4"
+        },
+        {
+          "name": "Rose Gold",
+          "hex": "#f6cdb9"
+        }
+      ],
+      "display": {
+        "size": "10.5″",
+        "type": "Retina display",
+        "features": [
+          "ProMotion technology",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a10x_ipad.png",
+        "name": "A10X Fusion chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "7MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 17",
+        "shipped": "iOS 10",
+        "status": "Vintage"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "smartkeyboard_ipad.png",
+        "features": [
+          "Supports Smart Keyboard"
+        ]
+      },
+      "capacity": [
+        "64GB",
+        "256GB",
+        "512GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.8,
+          "mm": 250.6
+        },
+        "width": {
+          "inches": 6.8,
+          "mm": 174.1
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 1.03,
+          "grams": 469
+        },
+        "weightCellular": {
+          "pounds": 1.05,
+          "grams": 477
+        }
+      }
+    },
+    {
+      "id": "ipad-5th-gen",
+      "model": "iPad (5th gen.)",
+      "launchYear": 2017,
+      "device": "ipad_5thgen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#e3ccb4"
+        }
+      ],
+      "display": {
+        "size": "9.7″",
+        "type": "Retina display",
+        "features": [
+          "&nbsp;",
+          "sRGB color"
+        ]
+      },
+      "chip": {
+        "image": "chip_a9_ipad.png",
+        "name": "A9 chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "8MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 16",
+        "shipped": "iOS 10",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "32GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.4,
+          "mm": 240
+        },
+        "width": {
+          "inches": 6.6,
+          "mm": 169.5
+        },
+        "depth": {
+          "inches": 0.29,
+          "mm": 7.5
+        },
+        "weightWifi": {
+          "pounds": 1.03,
+          "grams": 469
+        },
+        "weightCellular": {
+          "pounds": 1.05,
+          "grams": 478
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-97",
+      "model": "iPad Pro 9.7″",
+      "launchYear": 2016,
+      "device": "ipad_pro_9_7_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#e3ccb4"
+        },
+        {
+          "name": "Rose Gold",
+          "hex": "#f6cdb9"
+        }
+      ],
+      "display": {
+        "size": "9.7″",
+        "type": "Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a9x_ipad.png",
+        "name": "A9X chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadpro97_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "5MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 16",
+        "shipped": "iOS 9",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "smartkeyboard_ipad.png",
+        "features": [
+          "Supports Smart Keyboard"
+        ]
+      },
+      "capacity": [
+        "32GB",
+        "128GB",
+        "256GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.4,
+          "mm": 240
+        },
+        "width": {
+          "inches": 6.6,
+          "mm": 169.5
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 0.96,
+          "grams": 437
+        },
+        "weightCellular": {
+          "pounds": 0.98,
+          "grams": 444
+        }
+      }
+    },
+    {
+      "id": "ipad-pro-129-1st-gen",
+      "model": "iPad Pro 12.9″ (1st gen.)",
+      "launchYear": 2015,
+      "device": "ipad_pro_12_9_1st_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#68696d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#e3ccb4"
+        }
+      ],
+      "display": {
+        "size": "12.9″",
+        "type": "Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "&nbsp;",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a9x_ipad.png",
+        "name": "A9X chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadpro129_gen1_camera.png",
+        "features": [
+          "8MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 16",
+        "shipped": "iOS 9",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_4.png",
+        "features": [
+          "Four speaker audio",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen1.png",
+        "features": [
+          "Supports Apple Pencil\n(1st generation)"
+        ]
+      },
+      "keyboard": {
+        "icon": "smartkeyboard_ipad.png",
+        "features": [
+          "Supports Smart Keyboard"
+        ]
+      },
+      "capacity": [
+        "32GB",
+        "128GB",
+        "256GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 12,
+          "mm": 305.7
+        },
+        "width": {
+          "inches": 8.68,
+          "mm": 220.6
+        },
+        "depth": {
+          "inches": 0.27,
+          "mm": 6.9
+        },
+        "weightWifi": {
+          "pounds": 1.57,
+          "grams": 713
+        },
+        "weightCellular": {
+          "pounds": 1.59,
+          "grams": 723
+        }
+      }
+    },
+    {
+      "id": "ipad-mini-4th-gen",
+      "model": "iPad mini (4th gen.)",
+      "launchYear": 2015,
+      "device": "ipad_mini_4_spacegray.png",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#e3ccb4"
+        }
+      ],
+      "display": {
+        "size": "7.9″",
+        "type": "Retina display",
+        "features": [
+          "&nbsp;",
+          "sRGB color",
+          "&nbsp;",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a8_ipad.png",
+        "name": "A8 chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadpro129_gen1_camera.png",
+        "features": [
+          "8MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 15",
+        "shipped": "iOS 9",
+        "status": "Vintage"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_no.png",
+        "features": []
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "16GB",
+        "64GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 8,
+          "mm": 203.2
+        },
+        "width": {
+          "inches": 5.3,
+          "mm": 134.8
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 0.65,
+          "grams": 298.8
+        },
+        "weightCellular": {
+          "pounds": 0.67,
+          "grams": 304
+        }
+      }
+    },
+    {
+      "id": "ipad-mini-3rd-gen",
+      "model": "iPad mini (3rd gen.)",
+      "launchYear": 2014,
+      "device": "ipad_mini_3_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#e3ccb4"
+        }
+      ],
+      "display": {
+        "size": "7.9″",
+        "type": "Retina display",
+        "features": []
+      },
+      "chip": {
+        "image": "chip_a7_ipad.png",
+        "name": "A7 chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "5MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iOS 12",
+        "shipped": "iOS 8",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_no.png",
+        "features": []
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "16GB",
+        "64GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 7.87,
+          "mm": 200
+        },
+        "width": {
+          "inches": 5.3,
+          "mm": 134.7
+        },
+        "depth": {
+          "inches": 0.29,
+          "mm": 7.5
+        },
+        "weightWifi": {
+          "pounds": 0.73,
+          "grams": 331
+        },
+        "weightCellular": {
+          "pounds": 0.75,
+          "grams": 341
+        }
+      }
+    },
+    {
+      "id": "ipad-air-2nd-gen",
+      "model": "iPad Air (2nd gen.)",
+      "launchYear": 2014,
+      "device": "ipad_air_2_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        },
+        {
+          "name": "Gold",
+          "hex": "#e3ccb4"
+        }
+      ],
+      "display": {
+        "size": "9.7″",
+        "type": "Retina display",
+        "features": [
+          "&nbsp;",
+          "sRGB color",
+          "&nbsp;",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_a8x_ipad.png",
+        "name": "A8X chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipadpro129_gen1_camera.png",
+        "features": [
+          "8MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 15",
+        "shipped": "iOS 8",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "Touch ID in Home button",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "5_square_wifi.png",
+        "label": "Wi-Fi 802.11ac"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_no.png",
+        "features": []
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "16GB",
+        "64GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.4,
+          "mm": 240
+        },
+        "width": {
+          "inches": 6.6,
+          "mm": 169.5
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 0.96,
+          "grams": 437
+        },
+        "weightCellular": {
+          "pounds": 0.98,
+          "grams": 444
+        }
+      }
+    },
+    {
+      "id": "ipad-mini-2nd-gen",
+      "model": "iPad mini (2nd gen.)",
+      "launchYear": 2013,
+      "device": "ipad_mini_2_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        }
+      ],
+      "display": {
+        "size": "7.9″",
+        "type": "Retina display",
+        "features": []
+      },
+      "chip": {
+        "image": "chip_a7_ipad.png",
+        "name": "A7 chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "5MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iOS 12",
+        "shipped": "iOS 7",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "4_square_wifi.png",
+        "label": "Wi-Fi 802.11n"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_no.png",
+        "features": []
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "16GB",
+        "32GB",
+        "64GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 7.87,
+          "mm": 200
+        },
+        "width": {
+          "inches": 5.3,
+          "mm": 134.7
+        },
+        "depth": {
+          "inches": 0.29,
+          "mm": 7.5
+        },
+        "weightWifi": {
+          "pounds": 0.73,
+          "grams": 331
+        },
+        "weightCellular": {
+          "pounds": 0.75,
+          "grams": 341
+        }
+      }
+    },
+    {
+      "id": "ipad-air-1st-gen",
+      "model": "iPad Air (1st gen.)",
+      "launchYear": 2013,
+      "device": "ipad_air_1st_gen_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e3e4"
+        }
+      ],
+      "display": {
+        "size": "9.7″",
+        "type": "Retina display",
+        "features": [
+          "&nbsp;",
+          "sRGB color"
+        ]
+      },
+      "chip": {
+        "image": "chip_a7_ipad.png",
+        "name": "A7 chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "5MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iOS 12",
+        "shipped": "iOS 7",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "4_square_wifi.png",
+        "label": "Wi-Fi 802.11n"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_no.png",
+        "features": []
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "16GB",
+        "32GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.4,
+          "mm": 240
+        },
+        "width": {
+          "inches": 6.6,
+          "mm": 169.5
+        },
+        "depth": {
+          "inches": 0.29,
+          "mm": 7.5
+        },
+        "weightWifi": {
+          "pounds": 1,
+          "grams": 469
+        },
+        "weightCellular": {
+          "pounds": 1.05,
+          "grams": 378
+        }
+      }
+    },
+    {
+      "id": "ipad-4th-gen",
+      "model": "iPad (4th gen.)",
+      "launchYear": 2012,
+      "device": "ipad_4thgen.jpg",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000"
+        },
+        {
+          "name": "White",
+          "hex": "#f4f4f6"
+        }
+      ],
+      "display": {
+        "size": "9.7″",
+        "type": "Retina display",
+        "features": []
+      },
+      "chip": {
+        "image": "chip_a6x_ipad.png",
+        "name": "A6X chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "5MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iOS 10",
+        "shipped": "iOS 6",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Mono speakers"
+        ]
+      },
+      "wifi": {
+        "icon": "4_square_wifi.png",
+        "label": "Wi-Fi 802.11n"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_no.png",
+        "features": []
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "16GB",
+        "32GB",
+        "64GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.5,
+          "mm": 241.2
+        },
+        "width": {
+          "inches": 7.31,
+          "mm": 185.7
+        },
+        "depth": {
+          "inches": 0.37,
+          "mm": 9.4
+        },
+        "weightWifi": {
+          "pounds": 1.44,
+          "grams": 652
+        },
+        "weightCellular": {
+          "pounds": 1.46,
+          "grams": 662
+        }
+      }
+    },
+    {
+      "id": "ipad-mini-1st-gen",
+      "model": "iPad mini (1st gen.)",
+      "launchYear": 2012,
+      "device": "ipad_mini_1_whitesilver.jpg",
+      "colors": [
+        {
+          "name": "Black & Slate",
+          "hex": "#1f2020"
+        },
+        {
+          "name": "White & Silver",
+          "hex": "#f4f4f6"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "#b1b2b7"
+        }
+      ],
+      "display": {
+        "size": "7.9″",
+        "type": "Retina display",
+        "features": []
+      },
+      "chip": {
+        "image": "chip_a5_ipad.png",
+        "name": "A5 chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "5MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "1.2MP FaceTime HD camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iOS 9",
+        "shipped": "iOS 6",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_lightning.png",
+        "type": "Lightning connector"
+      },
+      "biometrics": "",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "4_square_wifi.png",
+        "label": "Wi-Fi 802.11n"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_no.png",
+        "features": []
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "16GB",
+        "32GB",
+        "64GB",
+        "128GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 7.87,
+          "mm": 200
+        },
+        "width": {
+          "inches": 5.3,
+          "mm": 134.7
+        },
+        "depth": {
+          "inches": 0.29,
+          "mm": 7.5
+        },
+        "weightWifi": {
+          "pounds": 0.73,
+          "grams": 331
+        },
+        "weightCellular": {
+          "pounds": 0.75,
+          "grams": 341
+        }
+      }
+    },
+    {
+      "id": "ipad-3rd-gen",
+      "model": "iPad (3rd gen.)",
+      "launchYear": 2012,
+      "device": "ipad_3rdgen.jpg",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000"
+        },
+        {
+          "name": "White",
+          "hex": "#f4f4f6"
+        }
+      ],
+      "display": {
+        "size": "9.7″",
+        "type": "Retina display",
+        "features": []
+      },
+      "chip": {
+        "image": "chip_a5x_ipad.png",
+        "name": "A5X chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "5MP Wide camera",
+          "1080p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "VGA-quality camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iOS 9",
+        "shipped": "iOS 5",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_30_pin_.png",
+        "type": "30-pin dock connector"
+      },
+      "biometrics": "",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Mono speakers"
+        ]
+      },
+      "wifi": {
+        "icon": "4_square_wifi.png",
+        "label": "Wi-Fi 802.11n"
+      },
+      "cellular": {
+        "icon": "4g_radiowaves.png",
+        "label": "4G LTE cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_no.png",
+        "features": []
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "16GB",
+        "32GB",
+        "64GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.5,
+          "mm": 241.2
+        },
+        "width": {
+          "inches": 7.31,
+          "mm": 185.7
+        },
+        "depth": {
+          "inches": 0.37,
+          "mm": 9.4
+        },
+        "weightWifi": {
+          "pounds": 1.44,
+          "grams": 652
+        },
+        "weightCellular": {
+          "pounds": 1.46,
+          "grams": 662
+        }
+      }
+    },
+    {
+      "id": "ipad-2nd-gen",
+      "model": "iPad (2nd gen.)",
+      "launchYear": 2011,
+      "device": "ipad_2ndgen.jpg",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000"
+        },
+        {
+          "name": "White",
+          "hex": "#f4f4f6"
+        }
+      ],
+      "display": {
+        "size": "9.7″",
+        "type": "",
+        "features": []
+      },
+      "chip": {
+        "image": "chip_a5_ipad.png",
+        "name": "A5 chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_gen9_camera.png",
+        "features": [
+          "5MP Wide camera",
+          "720p video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_portrait.png",
+        "features": [
+          "VGA-quality camera"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iOS 9",
+        "shipped": "iOS 4",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_30_pin_.png",
+        "type": "30-pin dock connector"
+      },
+      "biometrics": "",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Mono speakers"
+        ]
+      },
+      "wifi": {
+        "icon": "4_square_wifi.png",
+        "label": "Wi-Fi 802.11n"
+      },
+      "cellular": {
+        "icon": "3g_radiowaves.png",
+        "label": "3G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_no.png",
+        "features": []
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "16GB",
+        "32GB",
+        "64GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.5,
+          "mm": 241.2
+        },
+        "width": {
+          "inches": 7.31,
+          "mm": 185.7
+        },
+        "depth": {
+          "inches": 0.34,
+          "mm": 8.8
+        },
+        "weightWifi": {
+          "pounds": 1.33,
+          "grams": 601
+        },
+        "weightCellular": {
+          "pounds": 1.35,
+          "grams": 613
+        }
+      }
+    },
+    {
+      "id": "ipad-1st-gen",
+      "model": "iPad (1st gen.)",
+      "launchYear": 2010,
+      "device": "ipad_2ndgen.jpg",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000"
+        },
+        {
+          "name": "White",
+          "hex": "#f4f4f6"
+        }
+      ],
+      "display": {
+        "size": "9.7″",
+        "type": "",
+        "features": []
+      },
+      "chip": {
+        "image": "chip_a4_ipad.png",
+        "name": "A4 chip",
+        "features": []
+      },
+      "appleIntelligence": false,
+      "rearCamera": {
+        "icon": "ipad_front_camera_no.png",
+        "features": []
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_no.png",
+        "features": []
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iOS 5",
+        "shipped": "iPhone OS 3",
+        "status": "Obsolete"
+      },
+      "connector": {
+        "icon": "port_30_pin_.png",
+        "type": "30-pin dock connector"
+      },
+      "biometrics": "",
+      "speakers": {
+        "icon": "ipad_waves_right.png",
+        "features": [
+          "Mono speakers"
+        ]
+      },
+      "wifi": {
+        "icon": "4_square_wifi.png",
+        "label": "Wi-Fi 802.11n"
+      },
+      "cellular": {
+        "icon": "3g_radiowaves.png",
+        "label": "3G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_no.png",
+        "features": []
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "16GB",
+        "32GB",
+        "64GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.56,
+          "mm": 242.8
+        },
+        "width": {
+          "inches": 7.47,
+          "mm": 189.7
+        },
+        "depth": {
+          "inches": 0.5,
+          "mm": 13.4
+        },
+        "weightWifi": {
+          "pounds": 1.5,
+          "grams": 680
+        },
+        "weightCellular": {
+          "pounds": 1.6,
+          "grams": 730
+        }
+      }
+    }
+  ]
+}

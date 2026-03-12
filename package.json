@@ -1,0 +1,10 @@
+{
+  "name": "every-ipad-ever-created",
+  "version": "1.0.0",
+  "description": "A visual timeline of every iPad ever released",
+  "scripts": {
+    "build": "node scripts/generate-html.js"
+  },
+  "author": "Ale Mohamad",
+  "license": "MIT"
+}
