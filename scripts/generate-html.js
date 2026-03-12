@@ -284,7 +284,7 @@ function generateHTML() {
   <meta content="Apple’s iPad has transformed dramatically since its introduction, redefining what a tablet can do. With faster processors, enhanced displays, and more versatile features, it’s clear to see how far the iPad has evolved since its debut in 2010. As we look through all the models that have been released, we can appreciate how much Apple has pushed the boundaries of portable computing." name="description">
   <meta content="Every iPad ever released" property="og:title">
   <meta content="Apple’s iPad has transformed dramatically since its introduction, redefining what a tablet can do. With faster processors, enhanced displays, and more versatile features, it’s clear to see how far the iPad has evolved since its debut in 2010. As we look through all the models that have been released, we can appreciate how much Apple has pushed the boundaries of portable computing." property="og:description">
-  <meta content="https://cdn.prod.website-files.com/691c9ad49e4ef10559bba97a/6928322a5df6bc2930cc3bd6_every-ipad-ever-released.jpg" property="og:image">
+  <meta content="https://everyipad.info/docs/images/every-ipad-ever-released.jpg" property="og:image">
   <meta content="Every iPad ever released" property="twitter:title">
   <meta content="Apple’s iPad has transformed dramatically since its introduction, redefining what a tablet can do. With faster processors, enhanced displays, and more versatile features, it’s clear to see how far the iPad has evolved since its debut in 2010. As we look through all the models that have been released, we can appreciate how much Apple has pushed the boundaries of portable computing." property="twitter:description">
   <meta property="og:type" content="website">
