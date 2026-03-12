@@ -1,6 +1,256 @@
 {
   "ipads": [
     {
+      "id": "ipad-air-13-m4",
+      "model": "iPad Air 13″ (M4)",
+      "launchYear": 2026,
+      "device": "ipad_air_13_m2_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1"
+        }
+      ],
+      "display": {
+        "size": "13″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m4.png",
+        "name": "M4 chip",
+        "features": [
+          "8-core CPU",
+          "9-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 18",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "7_square_wifi.png",
+        "label": "Wi-Fi 7"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\nfor iPad Air"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 11.04,
+          "mm": 280.6
+        },
+        "width": {
+          "inches": 8.46,
+          "mm": 214.9
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 1.36,
+          "grams": 616
+        },
+        "weightCellular": {
+          "pounds": 1.36,
+          "grams": 617
+        }
+      }
+    },
+    {
+      "id": "ipad-air-11-m4",
+      "model": "iPad Air 11″ (M4)",
+      "launchYear": 2026,
+      "device": "ipad_air_11_m2_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1"
+        }
+      ],
+      "display": {
+        "size": "11″",
+        "type": "Liquid Retina display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating"
+        ]
+      },
+      "chip": {
+        "image": "chip_m4.png",
+        "name": "M4 chip",
+        "features": [
+          "8-core CPU",
+          "9-core GPU",
+          "16-core Neural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadair13_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP Ultra Wide\nfront camera",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 26",
+        "shipped": "iPadOS 18",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_left_and_right.png",
+        "features": [
+          "Landscape stereo speakers",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "7_square_wifi.png",
+        "label": "Wi-Fi 7"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "magickeyboard_ipad.png",
+        "features": [
+          "Supports Magic Keyboard\nfor iPad Air"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 9.74,
+          "mm": 247.6
+        },
+        "width": {
+          "inches": 7.02,
+          "mm": 178.5
+        },
+        "depth": {
+          "inches": 0.24,
+          "mm": 6.1
+        },
+        "weightWifi": {
+          "pounds": 1.02,
+          "grams": 464
+        },
+        "weightCellular": {
+          "pounds": 1.03,
+          "grams": 465
+        }
+      }
+    },
+    {
       "id": "ipad-pro-13-m5",
       "model": "iPad Pro 13″ (M5)",
       "launchYear": 2025,
