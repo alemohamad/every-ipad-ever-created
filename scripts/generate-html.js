@@ -284,11 +284,41 @@ function generateYearNav(ipads) {
     </nav>`;
 }
 
+// Product lines for the filter, in the order they're shown
+const LINES = [
+  { id: 'pro', label: 'Pro' },
+  { id: 'air', label: 'Air' },
+  { id: 'ipad', label: 'iPad' },
+  { id: 'mini', label: 'mini' }
+];
+
+// Generate the product line filter (only lines that have models)
+function generateLineFilter(ipads) {
+  const pills = [{ id: 'all', label: 'All' }]
+    .concat(LINES.filter(line => ipads.some(ipad => ipad.line === line.id)))
+    .map(line => `<button type="button" class="line-filter-option" data-line="${line.id}" aria-pressed="${line.id === 'all'}">${line.label}</button>`)
+    .join('\n      ');
+  return `<div class="line-filter" role="group" aria-label="Filter by product line">
+      ${pills}
+    </div>`;
+}
+
+// Generate the compare controls shown in the footer once models are picked
+function generateCompareBar() {
+  return `<div class="compare-bar" hidden>
+      <button type="button" class="compare-show"></button>
+      <button type="button" class="compare-clear" aria-label="Clear comparison"><svg width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M2 2l6 6M8 2 2 8" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg></button>
+    </div>`;
+}
+
 // Generate a single iPad entry
 function generateiPad(ipad) {
-  return `      <div class="model-header" id="${modelAnchor(ipad)}" data-year="${ipad.launchYear}">
-        <div class="launch-date">${ipad.launchYear}</div>
-        <a href="#${modelAnchor(ipad)}" class="model">${ipad.model}</a>
+  return `      <div class="model-header" id="${modelAnchor(ipad)}" data-year="${ipad.launchYear}" data-line="${ipad.line}">
+        <div class="model-title">
+          <div class="launch-date">${ipad.launchYear}</div>
+          <a href="#${modelAnchor(ipad)}" class="model">${ipad.model}</a>
+        </div>
+        <button type="button" class="compare-toggle" aria-pressed="false" aria-label="Compare ${ipad.model.replace(/\u00a0/g, ' ')}"><span class="compare-toggle-icon" aria-hidden="true"></span>Compare</button>
       </div>
       <div class="model-device"><img src="images/${ipad.device}" loading="lazy" alt="" class="model-device-pic"></div>
       <div class="model-colors">
@@ -343,6 +373,7 @@ function generateHTML() {
   <section class="header">
     <h1>Every iPad ever released</h1>
     <div class="description">Apple’s iPad has transformed dramatically since its introduction, redefining what a tablet can do. With faster processors, enhanced displays, and more versatile features, it’s clear to see how far the iPad has evolved since its debut in 2010. As we look through all the models that have been released, we can appreciate how much Apple has pushed the boundaries of portable computing.</div>
+    ${generateLineFilter(data.ipads)}
   </section>
   <section class="devices">
     <div class="w-layout-grid devices-grid">
@@ -352,6 +383,7 @@ ${ipadEntries}
   <section class="footer">
     <div>iPad is a trademark of Apple Inc., registered in the U.S. and other countries.</div>
     ${generateYearNav(data.ipads)}
+    ${generateCompareBar()}
     <a href="https://alemohamad.com/" target="_blank">Curated by <strong class="bold-text">Ale Mohamad</strong></a>
   </section>
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=691c9ad49e4ef10559bba97a" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>

@@ -45,6 +45,7 @@ Edit `data/ipads.json`, then run `npm run build`.
   "id": "ipad-pro-13-m5",
   "model": "iPad Pro 13″ (M5)",
   "launchYear": 2025,
+  "line": "pro",
   "device": "ipad_pro_13_m5_spaceblack.jpg",
   "colors": [
     { "name": "Space Black", "hex": "#2e2c2e", "image": "ipad_pro_13_m5_spaceblack.jpg" }
@@ -109,6 +110,15 @@ Edit `data/ipads.json`, then run `npm run build`.
   }
 }
 ```
+
+### Product Line Values
+
+Used by the line filter at the top of the page:
+
+- `pro` - iPad Pro models
+- `air` - iPad Air models
+- `ipad` - Standard iPad models
+- `mini` - iPad mini models
 
 ### iPadOS Status Values
 

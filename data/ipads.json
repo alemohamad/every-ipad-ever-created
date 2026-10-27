@@ -4,6 +4,7 @@
       "id": "ipad-mini-a20-pro",
       "model": "iPad mini (A20 Pro)",
       "launchYear": 2026,
+      "line": "mini",
       "device": "ipad_mini_a20pro_midnight.jpg",
       "colors": [
         {
@@ -123,6 +124,7 @@
       "id": "ipad-air-13-m4",
       "model": "iPad Air 13″ (M4)",
       "launchYear": 2026,
+      "line": "air",
       "device": "ipad_air_13_m4_spacegray.jpg",
       "colors": [
         {
@@ -182,8 +184,8 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
-        "shipped": "iPadOS 18",
+        "supported": "iPadOS 27",
+        "shipped": "iPadOS 26",
         "status": "Supported"
       },
       "connector": {
@@ -252,6 +254,7 @@
       "id": "ipad-air-11-m4",
       "model": "iPad Air 11″ (M4)",
       "launchYear": 2026,
+      "line": "air",
       "device": "ipad_air_11_m4_spacegray.jpg",
       "colors": [
         {
@@ -311,8 +314,8 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
-        "shipped": "iPadOS 18",
+        "supported": "iPadOS 27",
+        "shipped": "iPadOS 26",
         "status": "Supported"
       },
       "connector": {
@@ -381,6 +384,7 @@
       "id": "ipad-pro-13-m5",
       "model": "iPad Pro 13″ (M5)",
       "launchYear": 2025,
+      "line": "pro",
       "device": "ipad_pro_13_m5_spaceblack.jpg",
       "colors": [
         {
@@ -432,7 +436,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 26",
         "status": "Supported"
       },
@@ -502,6 +506,7 @@
       "id": "ipad-pro-11-m5",
       "model": "iPad Pro 11″ (M5)",
       "launchYear": 2025,
+      "line": "pro",
       "device": "ipad_pro_11_m4_spaceblack.jpg",
       "colors": [
         {
@@ -553,7 +558,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 26",
         "status": "Supported"
       },
@@ -623,6 +628,7 @@
       "id": "ipad-air-13-m3",
       "model": "iPad Air 13″ (M3)",
       "launchYear": 2025,
+      "line": "air",
       "device": "ipad_air_13_m3_spacegray.jpg",
       "colors": [
         {
@@ -682,7 +688,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 18",
         "status": "Supported"
       },
@@ -752,6 +758,7 @@
       "id": "ipad-air-11-m3",
       "model": "iPad Air 11″ (M3)",
       "launchYear": 2025,
+      "line": "air",
       "device": "ipad_air_11_m3_spacegray.jpg",
       "colors": [
         {
@@ -811,7 +818,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 18",
         "status": "Supported"
       },
@@ -881,6 +888,7 @@
       "id": "ipad-a16",
       "model": "iPad (A16)",
       "launchYear": 2025,
+      "line": "ipad",
       "device": "ipad_11th_a16_silver.jpg",
       "colors": [
         {
@@ -939,7 +947,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 18",
         "status": "Supported"
       },
@@ -1008,6 +1016,7 @@
       "id": "ipad-mini-a17-pro",
       "model": "iPad mini (A17 Pro)",
       "launchYear": 2024,
+      "line": "mini",
       "device": "ipad_mini_a17pro_space_gray.jpg",
       "colors": [
         {
@@ -1067,7 +1076,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 18",
         "status": "Supported"
       },
@@ -1136,6 +1145,7 @@
       "id": "ipad-pro-13-m4",
       "model": "iPad Pro 13″ (M4)",
       "launchYear": 2024,
+      "line": "pro",
       "device": "ipad_pro_13_m4_spaceblack.jpg",
       "colors": [
         {
@@ -1187,7 +1197,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 17",
         "status": "Supported"
       },
@@ -1257,6 +1267,7 @@
       "id": "ipad-pro-11-m4",
       "model": "iPad Pro 11″ (M4)",
       "launchYear": 2024,
+      "line": "pro",
       "device": "ipad_pro_11_m4_spaceblack.jpg",
       "colors": [
         {
@@ -1308,7 +1319,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 17",
         "status": "Supported"
       },
@@ -1378,6 +1389,7 @@
       "id": "ipad-air-13-m2",
       "model": "iPad Air 13″ (M2)",
       "launchYear": 2024,
+      "line": "air",
       "device": "ipad_air_13_m2_spacegray.jpg",
       "colors": [
         {
@@ -1437,7 +1449,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 18",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 17",
         "status": "Supported"
       },
@@ -1507,6 +1519,7 @@
       "id": "ipad-air-11-m2",
       "model": "iPad Air 11″ (M2)",
       "launchYear": 2024,
+      "line": "air",
       "device": "ipad_air_11_m2_spacegray.jpg",
       "colors": [
         {
@@ -1566,7 +1579,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 17",
         "status": "Supported"
       },
@@ -1636,6 +1649,7 @@
       "id": "ipad-pro-129-6th-gen",
       "model": "iPad Pro 12.9″ (6th gen.)",
       "launchYear": 2022,
+      "line": "pro",
       "device": "ipad_pro_12_9_6th_gen_spacegray.jpg",
       "colors": [
         {
@@ -1687,7 +1701,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 16",
         "status": "Supported"
       },
@@ -1759,6 +1773,7 @@
       "id": "ipad-pro-11-4th-gen",
       "model": "iPad Pro 11″ (4th gen.)",
       "launchYear": 2022,
+      "line": "pro",
       "device": "ipad_pro_11_4th_gen_spacegray.jpg",
       "colors": [
         {
@@ -1810,7 +1825,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 16",
         "status": "Supported"
       },
@@ -1882,6 +1897,7 @@
       "id": "ipad-10th-gen",
       "model": "iPad (10th gen.)",
       "launchYear": 2022,
+      "line": "ipad",
       "device": "ipad_10th_gen_silver.jpg",
       "colors": [
         {
@@ -1940,7 +1956,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 16",
         "status": "Supported"
       },
@@ -2008,6 +2024,7 @@
       "id": "ipad-air-5th-gen",
       "model": "iPad Air (5th gen.)",
       "launchYear": 2022,
+      "line": "air",
       "device": "ipad_air_5th_gen_spacegray.jpg",
       "colors": [
         {
@@ -2072,7 +2089,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 15",
         "status": "Supported"
       },
@@ -2141,6 +2158,7 @@
       "id": "ipad-9th-gen",
       "model": "iPad (9th gen.)",
       "launchYear": 2021,
+      "line": "ipad",
       "device": "ipad_9th_gen_space_gray.jpg",
       "colors": [
         {
@@ -2189,7 +2207,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 15",
         "status": "Supported"
       },
@@ -2256,6 +2274,7 @@
       "id": "ipad-mini-6th-gen",
       "model": "iPad mini (6th gen.)",
       "launchYear": 2021,
+      "line": "mini",
       "device": "ipad_mini_6th_gen_space_gray.jpg",
       "colors": [
         {
@@ -2315,7 +2334,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 15",
         "status": "Supported"
       },
@@ -2383,6 +2402,7 @@
       "id": "ipad-pro-129-5th-gen",
       "model": "iPad Pro 12.9″ (5th gen.)",
       "launchYear": 2021,
+      "line": "pro",
       "device": "ipad_pro_12_9_5th_gen_spacegray.jpg",
       "colors": [
         {
@@ -2434,7 +2454,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 14",
         "status": "Supported"
       },
@@ -2506,6 +2526,7 @@
       "id": "ipad-pro-11-3rd-gen",
       "model": "iPad Pro 11″ (3rd gen.)",
       "launchYear": 2021,
+      "line": "pro",
       "device": "ipad_pro_11_3rd_gen_spacegray.jpg",
       "colors": [
         {
@@ -2557,7 +2578,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 14",
         "status": "Supported"
       },
@@ -2629,6 +2650,7 @@
       "id": "ipad-air-4th-gen",
       "model": "iPad Air (4th gen.)",
       "launchYear": 2020,
+      "line": "air",
       "device": "ipad_air_4th_gen_spacegray.jpg",
       "colors": [
         {
@@ -2692,7 +2714,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 14",
         "status": "Supported"
       },
@@ -2761,6 +2783,7 @@
       "id": "ipad-8th-gen",
       "model": "iPad (8th gen.)",
       "launchYear": 2020,
+      "line": "ipad",
       "device": "ipad_8thgen_spacegray.jpg",
       "colors": [
         {
@@ -2876,6 +2899,7 @@
       "id": "ipad-pro-129-4th-gen",
       "model": "iPad Pro 12.9″ (4th gen.)",
       "launchYear": 2020,
+      "line": "pro",
       "device": "ipad_pro_12_9_4th_gen_spacegray.jpg",
       "colors": [
         {
@@ -2926,7 +2950,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 13",
         "status": "Supported"
       },
@@ -2997,6 +3021,7 @@
       "id": "ipad-pro-11-2nd-gen",
       "model": "iPad Pro 11″ (2nd gen.)",
       "launchYear": 2020,
+      "line": "pro",
       "device": "ipad_pro_11_2nd_gen_spacegray.jpg",
       "colors": [
         {
@@ -3047,7 +3072,7 @@
       },
       "ipados": {
         "icon": "icon_ipados.png",
-        "supported": "iPadOS 26",
+        "supported": "iPadOS 27",
         "shipped": "iPadOS 13",
         "status": "Supported"
       },
@@ -3118,6 +3143,7 @@
       "id": "ipad-7th-gen",
       "model": "iPad (7th gen.)",
       "launchYear": 2020,
+      "line": "ipad",
       "device": "ipad_7thgen_spacegray.jpg",
       "colors": [
         {
@@ -3164,7 +3190,7 @@
         "icon": "icon_ipados.png",
         "supported": "iPadOS 18",
         "shipped": "iPadOS 13",
-        "status": "Vintage"
+        "status": "Supported"
       },
       "connector": {
         "icon": "port_lightning.png",
@@ -3229,6 +3255,7 @@
       "id": "ipad-air-3rd-gen",
       "model": "iPad Air (3rd gen.)",
       "launchYear": 2019,
+      "line": "air",
       "device": "ipad_air_3rd_gen_spacegray.jpg",
       "colors": [
         {
@@ -3284,7 +3311,7 @@
         "icon": "icon_ipados.png",
         "supported": "iPadOS 26",
         "shipped": "iOS 12",
-        "status": "Supported"
+        "status": "Vintage"
       },
       "connector": {
         "icon": "port_lightning.png",
@@ -3349,6 +3376,7 @@
       "id": "ipad-mini-5th-gen",
       "model": "iPad mini (5th gen.)",
       "launchYear": 2019,
+      "line": "mini",
       "device": "ipad_mini_5th_gen_spacegray.jpg",
       "colors": [
         {
@@ -3469,6 +3497,7 @@
       "id": "ipad-pro-129-3rd-gen",
       "model": "iPad Pro 12.9″ (3rd gen.)",
       "launchYear": 2018,
+      "line": "pro",
       "device": "ipad_pro_12_9_3rd_gen_spacegray.jpg",
       "colors": [
         {
@@ -3520,7 +3549,7 @@
         "icon": "icon_ipados.png",
         "supported": "iPadOS 26",
         "shipped": "iOS 12",
-        "status": "Supported"
+        "status": "Vintage"
       },
       "connector": {
         "icon": "port_usb_c.png",
@@ -3589,6 +3618,7 @@
       "id": "ipad-pro-11-1st-gen",
       "model": "iPad Pro 11″ (1st gen.)",
       "launchYear": 2018,
+      "line": "pro",
       "device": "ipad_pro_11_1st_gen_spacegray.jpg",
       "colors": [
         {
@@ -3640,7 +3670,7 @@
         "icon": "icon_ipados.png",
         "supported": "iPadOS 26",
         "shipped": "iOS 12",
-        "status": "Supported"
+        "status": "Vintage"
       },
       "connector": {
         "icon": "port_usb_c.png",
@@ -3709,6 +3739,7 @@
       "id": "ipad-6th-gen",
       "model": "iPad (6th gen.)",
       "launchYear": 2018,
+      "line": "ipad",
       "device": "ipad_6thgen_spacegray.jpg",
       "colors": [
         {
@@ -3755,7 +3786,7 @@
         "icon": "icon_ipados.png",
         "supported": "iPadOS 17",
         "shipped": "iOS 11",
-        "status": "Vintage"
+        "status": "Obsolete"
       },
       "connector": {
         "icon": "port_lightning.png",
@@ -3820,6 +3851,7 @@
       "id": "ipad-pro-129-2nd-gen",
       "model": "iPad Pro 12.9″ (2nd gen.)",
       "launchYear": 2017,
+      "line": "pro",
       "device": "ipad_pro_12_9_2ndgen_spacegray.jpg",
       "colors": [
         {
@@ -3871,7 +3903,7 @@
         "icon": "icon_ipados.png",
         "supported": "iPadOS 17",
         "shipped": "iOS 10",
-        "status": "Vintage"
+        "status": "Obsolete"
       },
       "connector": {
         "icon": "port_lightning.png",
@@ -3937,6 +3969,7 @@
       "id": "ipad-pro-105",
       "model": "iPad Pro 10.5″",
       "launchYear": 2017,
+      "line": "pro",
       "device": "ipad_pro_10_5_spacegray.jpg",
       "colors": [
         {
@@ -4059,6 +4092,7 @@
       "id": "ipad-5th-gen",
       "model": "iPad (5th gen.)",
       "launchYear": 2017,
+      "line": "ipad",
       "device": "ipad_5thgen_spacegray.jpg",
       "colors": [
         {
@@ -4167,6 +4201,7 @@
       "id": "ipad-pro-97",
       "model": "iPad Pro 9.7″",
       "launchYear": 2016,
+      "line": "pro",
       "device": "ipad_pro_9_7_spacegray.jpg",
       "colors": [
         {
@@ -4289,6 +4324,7 @@
       "id": "ipad-pro-129-1st-gen",
       "model": "iPad Pro 12.9″ (1st gen.)",
       "launchYear": 2015,
+      "line": "pro",
       "device": "ipad_pro_12_9_1st_gen_spacegray.jpg",
       "colors": [
         {
@@ -4406,6 +4442,7 @@
       "id": "ipad-mini-4th-gen",
       "model": "iPad mini (4th gen.)",
       "launchYear": 2015,
+      "line": "mini",
       "device": "ipad_mini_4_spacegray.png",
       "colors": [
         {
@@ -4457,7 +4494,7 @@
         "icon": "icon_ipados.png",
         "supported": "iPadOS 15",
         "shipped": "iOS 9",
-        "status": "Vintage"
+        "status": "Obsolete"
       },
       "connector": {
         "icon": "port_lightning.png",
@@ -4521,6 +4558,7 @@
       "id": "ipad-mini-3rd-gen",
       "model": "iPad mini (3rd gen.)",
       "launchYear": 2014,
+      "line": "mini",
       "device": "ipad_mini_3_spacegray.jpg",
       "colors": [
         {
@@ -4631,6 +4669,7 @@
       "id": "ipad-air-2nd-gen",
       "model": "iPad Air (2nd gen.)",
       "launchYear": 2014,
+      "line": "air",
       "device": "ipad_air_2_spacegray.jpg",
       "colors": [
         {
@@ -4746,6 +4785,7 @@
       "id": "ipad-mini-2nd-gen",
       "model": "iPad mini (2nd gen.)",
       "launchYear": 2013,
+      "line": "mini",
       "device": "ipad_mini_2_spacegray.jpg",
       "colors": [
         {
@@ -4852,6 +4892,7 @@
       "id": "ipad-air-1st-gen",
       "model": "iPad Air (1st gen.)",
       "launchYear": 2013,
+      "line": "air",
       "device": "ipad_air_1st_gen_spacegray.jpg",
       "colors": [
         {
@@ -4960,6 +5001,7 @@
       "id": "ipad-4th-gen",
       "model": "iPad (4th gen.)",
       "launchYear": 2012,
+      "line": "ipad",
       "device": "ipad_4thgen.jpg",
       "colors": [
         {
@@ -5063,6 +5105,7 @@
       "id": "ipad-mini-1st-gen",
       "model": "iPad mini (1st gen.)",
       "launchYear": 2012,
+      "line": "mini",
       "device": "ipad_mini_1_whitesilver.jpg",
       "colors": [
         {
@@ -5171,6 +5214,7 @@
       "id": "ipad-3rd-gen",
       "model": "iPad (3rd gen.)",
       "launchYear": 2012,
+      "line": "ipad",
       "device": "ipad_3rdgen.jpg",
       "colors": [
         {
@@ -5273,6 +5317,7 @@
       "id": "ipad-2nd-gen",
       "model": "iPad (2nd gen.)",
       "launchYear": 2011,
+      "line": "ipad",
       "device": "ipad_2ndgen.jpg",
       "colors": [
         {
@@ -5375,6 +5420,7 @@
       "id": "ipad-1st-gen",
       "model": "iPad (1st gen.)",
       "launchYear": 2010,
+      "line": "ipad",
       "device": "ipad_2ndgen.jpg",
       "colors": [
         {
