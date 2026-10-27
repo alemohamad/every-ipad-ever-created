@@ -1,26 +1,149 @@
 {
   "ipads": [
     {
-      "id": "ipad-air-13-m4",
-      "model": "iPad Air 13″ (M4)",
+      "id": "ipad-mini-a20-pro",
+      "model": "iPad mini (A20 Pro)",
       "launchYear": 2026,
-      "device": "ipad_air_13_m2_spacegray.jpg",
+      "device": "ipad_mini_a20pro_midnight.jpg",
       "colors": [
         {
-          "name": "Space Gray",
-          "hex": "#6b696e"
-        },
-        {
-          "name": "Blue",
-          "hex": "#d7e5e6"
-        },
-        {
-          "name": "Purple",
-          "hex": "#e3dee9"
+          "name": "Midnight",
+          "hex": "#2e3641",
+          "image": "ipad_mini_a20pro_midnight.jpg"
         },
         {
           "name": "Starlight",
-          "hex": "#e3dcd1"
+          "hex": "#e3dcd1",
+          "image": "ipad_mini_a20pro_starlight.jpg"
+        }
+      ],
+      "display": {
+        "size": "8.5″",
+        "type": "Super Retina XDR display",
+        "features": [
+          "&nbsp;",
+          "P3 wide color",
+          "True Tone",
+          "Antireflective coating",
+          "Nano-texture display glass option on\n256GB and 512GB models"
+        ]
+      },
+      "chip": {
+        "image": "chip_a20pro.png",
+        "name": "A20 Pro chip",
+        "features": [
+          "Up to 6-core CPU",
+          "7-core GPU",
+          "Up to Dual 16-core\nNeural Engine"
+        ]
+      },
+      "appleIntelligence": true,
+      "rearCamera": {
+        "icon": "ipadmini_gen6_camera.png",
+        "features": [
+          "12MP Wide camera",
+          "4K video"
+        ]
+      },
+      "frontCamera": {
+        "icon": "ipad_front_camera_landscape.png",
+        "features": [
+          "Landscape 12MP\nCenter Stage camera",
+          "Center Stage"
+        ]
+      },
+      "ipados": {
+        "icon": "icon_ipados.png",
+        "supported": "iPadOS 27",
+        "shipped": "iPadOS 27",
+        "status": "Supported"
+      },
+      "connector": {
+        "icon": "port_usb_c.png",
+        "type": "USB-C connector"
+      },
+      "biometrics": "Touch ID in top button",
+      "speakers": {
+        "icon": "ipad_waves_display.png",
+        "features": [
+          "Acoustic Display",
+          "Two microphones"
+        ]
+      },
+      "wifi": {
+        "icon": "7_square_wifi.png",
+        "label": "Wi-Fi 7"
+      },
+      "cellular": {
+        "icon": "5g_radiowaves.png",
+        "label": "5G cellular"
+      },
+      "applePencil": {
+        "icon": "applepencil_vertical_gen4_gen3.png",
+        "features": [
+          "Supports Apple Pencil Pro\n&nbsp;",
+          "Supports Apple Pencil\n(USB-C)"
+        ]
+      },
+      "keyboard": {
+        "icon": "keyboard.png",
+        "features": [
+          "Supports Bluetooth Keyboards"
+        ]
+      },
+      "capacity": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "dimensions": {
+        "height": {
+          "inches": 7.69,
+          "mm": 195.3
+        },
+        "width": {
+          "inches": 5.22,
+          "mm": 132.6
+        },
+        "depth": {
+          "inches": 0.21,
+          "mm": 5.4
+        },
+        "weightWifi": {
+          "pounds": 0.56,
+          "grams": 255
+        },
+        "weightCellular": {
+          "pounds": 0.58,
+          "grams": 263
+        }
+      }
+    },
+    {
+      "id": "ipad-air-13-m4",
+      "model": "iPad Air 13″ (M4)",
+      "launchYear": 2026,
+      "device": "ipad_air_13_m4_spacegray.jpg",
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "#6b696e",
+          "image": "ipad_air_13_m4_spacegray.jpg"
+        },
+        {
+          "name": "Blue",
+          "hex": "#d7e5e6",
+          "image": "ipad_air_13_m4_blue.jpg"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e3dee9",
+          "image": "ipad_air_13_m4_purple.jpg"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#e3dcd1",
+          "image": "ipad_air_13_m4_starlight.jpg"
         }
       ],
       "display": {
@@ -129,23 +252,27 @@
       "id": "ipad-air-11-m4",
       "model": "iPad Air 11″ (M4)",
       "launchYear": 2026,
-      "device": "ipad_air_11_m2_spacegray.jpg",
+      "device": "ipad_air_11_m4_spacegray.jpg",
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#6b696e"
+          "hex": "#6b696e",
+          "image": "ipad_air_11_m4_spacegray.jpg"
         },
         {
           "name": "Blue",
-          "hex": "#d7e5e6"
+          "hex": "#d7e5e6",
+          "image": "ipad_air_11_m4_blue.jpg"
         },
         {
           "name": "Purple",
-          "hex": "#e3dee9"
+          "hex": "#e3dee9",
+          "image": "ipad_air_11_m4_purple.jpg"
         },
         {
           "name": "Starlight",
-          "hex": "#e3dcd1"
+          "hex": "#e3dcd1",
+          "image": "ipad_air_11_m4_starlight.jpg"
         }
       ],
       "display": {
@@ -254,15 +381,17 @@
       "id": "ipad-pro-13-m5",
       "model": "iPad Pro 13″ (M5)",
       "launchYear": 2025,
-      "device": "ipad_pro_13_m4.jpg",
+      "device": "ipad_pro_13_m5_spaceblack.jpg",
       "colors": [
         {
           "name": "Space Black",
-          "hex": "#2e2c2e"
+          "hex": "#2e2c2e",
+          "image": "ipad_pro_13_m5_spaceblack.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e3e4e5"
+          "hex": "#e3e4e5",
+          "image": "ipad_pro_13_m5_silver.jpg"
         }
       ],
       "display": {
@@ -377,11 +506,13 @@
       "colors": [
         {
           "name": "Space Black",
-          "hex": "#2e2c2e"
+          "hex": "#2e2c2e",
+          "image": "ipad_pro_11_m4_spaceblack.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e3e4e5"
+          "hex": "#e3e4e5",
+          "image": "ipad_pro_11_m4_silver.jpg"
         }
       ],
       "display": {
@@ -492,23 +623,27 @@
       "id": "ipad-air-13-m3",
       "model": "iPad Air 13″ (M3)",
       "launchYear": 2025,
-      "device": "ipad_air_13_m2_spacegray.jpg",
+      "device": "ipad_air_13_m3_spacegray.jpg",
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#6b696e"
+          "hex": "#6b696e",
+          "image": "ipad_air_13_m3_spacegray.jpg"
         },
         {
           "name": "Blue",
-          "hex": "#d7e5e6"
+          "hex": "#d7e5e6",
+          "image": "ipad_air_13_m3_blue.jpg"
         },
         {
           "name": "Purple",
-          "hex": "#e3dee9"
+          "hex": "#e3dee9",
+          "image": "ipad_air_13_m3_purple.jpg"
         },
         {
           "name": "Starlight",
-          "hex": "#e3dcd1"
+          "hex": "#e3dcd1",
+          "image": "ipad_air_13_m3_starlight.jpg"
         }
       ],
       "display": {
@@ -617,23 +752,27 @@
       "id": "ipad-air-11-m3",
       "model": "iPad Air 11″ (M3)",
       "launchYear": 2025,
-      "device": "ipad_air_11_m2_spacegray.jpg",
+      "device": "ipad_air_11_m3_spacegray.jpg",
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#6b696e"
+          "hex": "#6b696e",
+          "image": "ipad_air_11_m3_spacegray.jpg"
         },
         {
           "name": "Blue",
-          "hex": "#d7e5e6"
+          "hex": "#d7e5e6",
+          "image": "ipad_air_11_m3_blue.jpg"
         },
         {
           "name": "Purple",
-          "hex": "#e3dee9"
+          "hex": "#e3dee9",
+          "image": "ipad_air_11_m3_purple.jpg"
         },
         {
           "name": "Starlight",
-          "hex": "#e3dcd1"
+          "hex": "#e3dcd1",
+          "image": "ipad_air_11_m3_starlight.jpg"
         }
       ],
       "display": {
@@ -742,23 +881,27 @@
       "id": "ipad-a16",
       "model": "iPad (A16)",
       "launchYear": 2025,
-      "device": "ipad_10th_gen_silver.jpg",
+      "device": "ipad_11th_a16_silver.jpg",
       "colors": [
         {
           "name": "Silver",
-          "hex": "#e3e4e5"
+          "hex": "#e3e4e5",
+          "image": "ipad_11th_a16_silver.jpg"
         },
         {
           "name": "Pink",
-          "hex": "#de6274"
+          "hex": "#de6274",
+          "image": "ipad_11th_a16_pink.jpg"
         },
         {
           "name": "Blue",
-          "hex": "#6480a3"
+          "hex": "#6480a3",
+          "image": "ipad_11th_a16_blue.jpg"
         },
         {
           "name": "Yellow",
-          "hex": "#f0d95b"
+          "hex": "#f0d95b",
+          "image": "ipad_11th_a16_yellow.jpg"
         }
       ],
       "display": {
@@ -865,23 +1008,27 @@
       "id": "ipad-mini-a17-pro",
       "model": "iPad mini (A17 Pro)",
       "launchYear": 2024,
-      "device": "ipad_mini_a17pro.jpg",
+      "device": "ipad_mini_a17pro_space_gray.jpg",
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#6b696e"
+          "hex": "#6b696e",
+          "image": "ipad_mini_a17pro_space_gray.jpg"
         },
         {
           "name": "Blue",
-          "hex": "#d7e5e6"
+          "hex": "#d7e5e6",
+          "image": "ipad_mini_a17pro_blue.jpg"
         },
         {
           "name": "Purple",
-          "hex": "#e3dee9"
+          "hex": "#e3dee9",
+          "image": "ipad_mini_a17pro_purple.jpg"
         },
         {
           "name": "Starlight",
-          "hex": "#e3dcd1"
+          "hex": "#e3dcd1",
+          "image": "ipad_mini_a17pro_starlight.jpg"
         }
       ],
       "display": {
@@ -989,15 +1136,17 @@
       "id": "ipad-pro-13-m4",
       "model": "iPad Pro 13″ (M4)",
       "launchYear": 2024,
-      "device": "ipad_pro_13_m4.jpg",
+      "device": "ipad_pro_13_m4_spaceblack.jpg",
       "colors": [
         {
           "name": "Space Black",
-          "hex": "#2e2c2e"
+          "hex": "#2e2c2e",
+          "image": "ipad_pro_13_m4_spaceblack.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e3e4e5"
+          "hex": "#e3e4e5",
+          "image": "ipad_pro_13_m4_silver.jpg"
         }
       ],
       "display": {
@@ -1112,11 +1261,13 @@
       "colors": [
         {
           "name": "Space Black",
-          "hex": "#2e2c2e"
+          "hex": "#2e2c2e",
+          "image": "ipad_pro_11_m4_spaceblack.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e3e4e5"
+          "hex": "#e3e4e5",
+          "image": "ipad_pro_11_m4_silver.jpg"
         }
       ],
       "display": {
@@ -1231,19 +1382,23 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#6b696e"
+          "hex": "#6b696e",
+          "image": "ipad_air_13_m2_spacegray.jpg"
         },
         {
           "name": "Blue",
-          "hex": "#d7e5e6"
+          "hex": "#d7e5e6",
+          "image": "ipad_air_13_m2_blue.jpg"
         },
         {
           "name": "Purple",
-          "hex": "#e3dee9"
+          "hex": "#e3dee9",
+          "image": "ipad_air_13_m2_purple.jpg"
         },
         {
           "name": "Starlight",
-          "hex": "#e3dcd1"
+          "hex": "#e3dcd1",
+          "image": "ipad_air_13_m2_starlight.jpg"
         }
       ],
       "display": {
@@ -1356,19 +1511,23 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#6b696e"
+          "hex": "#6b696e",
+          "image": "ipad_air_11_m2_spacegray.jpg"
         },
         {
           "name": "Blue",
-          "hex": "#d7e5e6"
+          "hex": "#d7e5e6",
+          "image": "ipad_air_11_m2_blue.jpg"
         },
         {
           "name": "Purple",
-          "hex": "#e3dee9"
+          "hex": "#e3dee9",
+          "image": "ipad_air_11_m2_purple.jpg"
         },
         {
           "name": "Starlight",
-          "hex": "#e3dcd1"
+          "hex": "#e3dcd1",
+          "image": "ipad_air_11_m2_starlight.jpg"
         }
       ],
       "display": {
@@ -1480,12 +1639,14 @@
       "device": "ipad_pro_12_9_6th_gen_spacegray.jpg",
       "colors": [
         {
-          "name": "Space Black",
-          "hex": "#2e2c2e"
+          "name": "Space Gray",
+          "hex": "#68696d",
+          "image": "ipad_pro_12_9_6th_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e3e4e5"
+          "hex": "#e3e4e5",
+          "image": "ipad_pro_12_9_6th_gen_silver.jpg"
         }
       ],
       "display": {
@@ -1601,12 +1762,14 @@
       "device": "ipad_pro_11_4th_gen_spacegray.jpg",
       "colors": [
         {
-          "name": "Space Black",
-          "hex": "#2e2c2e"
+          "name": "Space Gray",
+          "hex": "#68696d",
+          "image": "ipad_pro_11_4th_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e3e4e5"
+          "hex": "#e3e4e5",
+          "image": "ipad_pro_11_4th_gen_silver.jpg"
         }
       ],
       "display": {
@@ -1723,19 +1886,23 @@
       "colors": [
         {
           "name": "Silver",
-          "hex": "#e3e4e5"
+          "hex": "#e3e4e5",
+          "image": "ipad_10th_gen_silver.jpg"
         },
         {
           "name": "Pink",
-          "hex": "#de6274"
+          "hex": "#de6274",
+          "image": "ipad_10th_gen_pink.jpg"
         },
         {
           "name": "Blue",
-          "hex": "#6480a3"
+          "hex": "#6480a3",
+          "image": "ipad_10th_gen_blue.jpg"
         },
         {
           "name": "Yellow",
-          "hex": "#f0d95b"
+          "hex": "#f0d95b",
+          "image": "ipad_10th_gen_yellow.jpg"
         }
       ],
       "display": {
@@ -1845,23 +2012,28 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#6b696e"
+          "hex": "#6b696e",
+          "image": "ipad_air_5th_gen_spacegray.jpg"
         },
         {
           "name": "Blue",
-          "hex": "#88aebf"
+          "hex": "#88aebf",
+          "image": "ipad_air_5th_gen_blue.jpg"
         },
         {
           "name": "Pink",
-          "hex": "#e8d2cf"
+          "hex": "#e8d2cf",
+          "image": "ipad_air_5th_gen_pink.jpg"
         },
         {
           "name": "Purple",
-          "hex": "#b9b8d1"
+          "hex": "#b9b8d1",
+          "image": "ipad_air_5th_gen_purple.jpg"
         },
         {
           "name": "Starlight",
-          "hex": "#e5e0d8"
+          "hex": "#e5e0d8",
+          "image": "ipad_air_5th_gen_starlight.jpg"
         }
       ],
       "display": {
@@ -1973,11 +2145,13 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696e"
+          "hex": "#68696e",
+          "image": "ipad_9th_gen_space_gray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_9th_gen_silver.jpg"
         }
       ],
       "display": {
@@ -2086,19 +2260,23 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#6b696e"
+          "hex": "#6b696e",
+          "image": "ipad_mini_6th_gen_space_gray.jpg"
         },
         {
           "name": "Starlight",
-          "hex": "#e3dcd1"
+          "hex": "#e3dcd1",
+          "image": "ipad_mini_6th_gen_starlight.jpg"
         },
         {
           "name": "Pink",
-          "hex": "#e8d1cf"
+          "hex": "#e8d1cf",
+          "image": "ipad_mini_6th_gen_pink.jpg"
         },
         {
           "name": "Purple",
-          "hex": "#b9b8d1"
+          "hex": "#b9b8d1",
+          "image": "ipad_mini_6th_gen_purple.jpg"
         }
       ],
       "display": {
@@ -2209,11 +2387,13 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_pro_12_9_5th_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_pro_12_9_5th_gen_silver.jpg"
         }
       ],
       "display": {
@@ -2326,15 +2506,17 @@
       "id": "ipad-pro-11-3rd-gen",
       "model": "iPad Pro 11″ (3rd gen.)",
       "launchYear": 2021,
-      "device": "ipad_pro_11_4th_gen_spacegray.jpg",
+      "device": "ipad_pro_11_3rd_gen_spacegray.jpg",
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_pro_11_3rd_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_pro_11_3rd_gen_silver.jpg"
         }
       ],
       "display": {
@@ -2451,23 +2633,28 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_air_4th_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_air_4th_gen_silver.jpg"
         },
         {
           "name": "Rose Gold",
-          "hex": "#ecc5c1"
+          "hex": "#ecc5c1",
+          "image": "ipad_air_4th_gen_gold.jpg"
         },
         {
           "name": "Sky Blue",
-          "hex": "#cee3f6"
+          "hex": "#cee3f6",
+          "image": "ipad_air_4th_gen_skyblue.jpg"
         },
         {
           "name": "Green",
-          "hex": "#ccdfc9"
+          "hex": "#ccdfc9",
+          "image": "ipad_air_4th_gen_green.jpg"
         }
       ],
       "display": {
@@ -2578,15 +2765,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_8thgen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_8thgen_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#f6cdb9"
+          "hex": "#f6cdb9",
+          "image": "ipad_8thgen_gold.jpg"
         }
       ],
       "display": {
@@ -2690,11 +2880,13 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_pro_12_9_4th_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_pro_12_9_4th_gen_silver.jpg"
         }
       ],
       "display": {
@@ -2809,11 +3001,13 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_pro_11_2nd_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_pro_11_2nd_gen_silver.jpg"
         }
       ],
       "display": {
@@ -2928,15 +3122,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_7thgen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_7thgen_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#f6cdb9"
+          "hex": "#f6cdb9",
+          "image": "ipad_7thgen_gold.jpg"
         }
       ],
       "display": {
@@ -3036,15 +3233,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_air_3rd_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_air_3rd_gen_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#f6cdb9"
+          "hex": "#f6cdb9",
+          "image": "ipad_air_3rd_gen_gold.jpg"
         }
       ],
       "display": {
@@ -3153,15 +3353,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_mini_5th_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_mini_5th_gen_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#f6cdb9"
+          "hex": "#f6cdb9",
+          "image": "ipad_mini_5th_gen_gold.jpg"
         }
       ],
       "display": {
@@ -3270,11 +3473,13 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_pro_12_9_3rd_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_pro_12_9_3rd_gen_silver.jpg"
         }
       ],
       "display": {
@@ -3388,11 +3593,13 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_pro_11_1st_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_pro_11_1st_gen_silver.jpg"
         }
       ],
       "display": {
@@ -3506,15 +3713,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#b1b2b7"
+          "hex": "#b1b2b7",
+          "image": "ipad_6thgen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_6thgen_silver.jpg"
         },
         {
-          "name": "Rose Gold",
-          "hex": "#f6cdb9"
+          "name": "Gold",
+          "hex": "#f6cdb9",
+          "image": "ipad_6thgen_gold.jpg"
         }
       ],
       "display": {
@@ -3614,15 +3824,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_pro_12_9_2ndgen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_pro_12_9_2ndgen_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#e3ccb4"
+          "hex": "#e3ccb4",
+          "image": "ipad_pro_12_9_2ndgen_gold.jpg"
         }
       ],
       "display": {
@@ -3728,19 +3941,23 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_pro_10_5_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_pro_10_5_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#e3ccb4"
+          "hex": "#e3ccb4",
+          "image": "ipad_pro_10_5_gold.jpg"
         },
         {
           "name": "Rose Gold",
-          "hex": "#f6cdb9"
+          "hex": "#f6cdb9",
+          "image": "ipad_pro_10_5_rosegold.jpg"
         }
       ],
       "display": {
@@ -3846,15 +4063,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#b1b2b7"
+          "hex": "#b1b2b7",
+          "image": "ipad_5thgen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_5thgen_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#e3ccb4"
+          "hex": "#e3ccb4",
+          "image": "ipad_5thgen_gold.jpg"
         }
       ],
       "display": {
@@ -3951,19 +4171,23 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_pro_9_7_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_pro_9_7_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#e3ccb4"
+          "hex": "#e3ccb4",
+          "image": "ipad_pro_9_7_gold.jpg"
         },
         {
           "name": "Rose Gold",
-          "hex": "#f6cdb9"
+          "hex": "#f6cdb9",
+          "image": "ipad_pro_9_7_rosegold.jpg"
         }
       ],
       "display": {
@@ -4069,15 +4293,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#68696d"
+          "hex": "#68696d",
+          "image": "ipad_pro_12_9_1st_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_pro_12_9_1st_gen_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#e3ccb4"
+          "hex": "#e3ccb4",
+          "image": "ipad_pro_12_9_1st_gen_gold.jpg"
         }
       ],
       "display": {
@@ -4183,15 +4410,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#b1b2b7"
+          "hex": "#b1b2b7",
+          "image": "ipad_mini_4_spacegray.png"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_mini_4_silver.png"
         },
         {
           "name": "Gold",
-          "hex": "#e3ccb4"
+          "hex": "#e3ccb4",
+          "image": "ipad_mini_4_gold.png"
         }
       ],
       "display": {
@@ -4295,15 +4525,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#b1b2b7"
+          "hex": "#b1b2b7",
+          "image": "ipad_mini_3_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_mini_3_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#e3ccb4"
+          "hex": "#e3ccb4",
+          "image": "ipad_mini_3_gold.jpg"
         }
       ],
       "display": {
@@ -4402,15 +4635,18 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#b1b2b7"
+          "hex": "#b1b2b7",
+          "image": "ipad_air_2_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_air_2_silver.jpg"
         },
         {
           "name": "Gold",
-          "hex": "#e3ccb4"
+          "hex": "#e3ccb4",
+          "image": "ipad_air_2_gold.jpg"
         }
       ],
       "display": {
@@ -4514,11 +4750,13 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#b1b2b7"
+          "hex": "#b1b2b7",
+          "image": "ipad_mini_2_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_mini_2_silver.jpg"
         }
       ],
       "display": {
@@ -4618,11 +4856,13 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": "#b1b2b7"
+          "hex": "#b1b2b7",
+          "image": "ipad_air_1st_gen_spacegray.jpg"
         },
         {
           "name": "Silver",
-          "hex": "#e2e3e4"
+          "hex": "#e2e3e4",
+          "image": "ipad_air_1st_gen_silver.jpg"
         }
       ],
       "display": {

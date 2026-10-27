@@ -45,9 +45,9 @@ Edit `data/ipads.json`, then run `npm run build`.
   "id": "ipad-pro-13-m5",
   "model": "iPad Pro 13″ (M5)",
   "launchYear": 2025,
-  "device": "ipad_pro_13_m4.jpg",
+  "device": "ipad_pro_13_m5_spaceblack.jpg",
   "colors": [
-    { "name": "Space Black", "hex": "#2e2c2e" }
+    { "name": "Space Black", "hex": "#2e2c2e", "image": "ipad_pro_13_m5_spaceblack.jpg" }
   ],
   "display": {
     "size": "13″",
@@ -119,6 +119,7 @@ Edit `data/ipads.json`, then run `npm run build`.
 ### Notes
 
 - Colors use inline styles with hex codes
+- Each color can have an optional `image`; selecting the color swaps the device photo (`device` should match the first color's image)
 - Use `\n` in JSON strings to create line breaks (converted to `<br>`)
 - Images go in `images/` folder
 - iPads are displayed in order they appear in the JSON array (newest first)
