@@ -25,9 +25,9 @@ This reads `docs/index.html` (original Webflow export) and extracts iPad data in
 │   └── ipads.json         # iPad data (source of truth)
 ├── docs/
 │   ├── index.html         # Original Webflow HTML (used for extraction)
-│   ├── css/               # Webflow stylesheets
+│   ├── css/               # Webflow stylesheets, plus color-selector.css (shared with the iPhone site) and site.css
 │   ├── images/            # Device images and icons
-│   └── js/                # Webflow scripts
+│   └── js/                # Webflow scripts, plus site.js (year navigation, arrows, links to a model)
 ├── scripts/
 │   ├── extract-ipads.js   # HTML → JSON extraction script
 │   └── generate-html.js   # JSON → HTML generator script

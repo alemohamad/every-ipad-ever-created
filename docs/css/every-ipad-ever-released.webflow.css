@@ -325,6 +325,10 @@ a:hover {
 }
 
 @media screen and (max-width: 991px) {
+  .footer {
+    flex-flow: column;
+  }
+
   h1 {
     font-size: 42px;
   }
