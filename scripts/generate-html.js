@@ -398,6 +398,7 @@ ${ipadEntries}
     });
   </script>
   <script src="js/site.js" type="text/javascript"></script>
+  <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "fd5d0bfa91614a8082b5b62eaf4077ef"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>`;
 }
