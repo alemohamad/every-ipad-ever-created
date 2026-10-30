@@ -5002,15 +5002,17 @@
       "model": "iPad (4th gen.)",
       "launchYear": 2012,
       "line": "ipad",
-      "device": "ipad_4thgen.jpg",
+      "device": "ipad_4th_gen_black.jpg",
       "colors": [
         {
           "name": "Black",
-          "hex": "#000"
+          "hex": "#000",
+          "image": "ipad_4th_gen_black.jpg"
         },
         {
           "name": "White",
-          "hex": "#f4f4f6"
+          "hex": "#f4f4f6",
+          "image": "ipad_4th_gen_white.jpg"
         }
       ],
       "display": {
@@ -5106,19 +5108,17 @@
       "model": "iPad mini (1st gen.)",
       "launchYear": 2012,
       "line": "mini",
-      "device": "ipad_mini_1_whitesilver.jpg",
+      "device": "ipad_mini_1st_gen_blackslate.jpg",
       "colors": [
         {
           "name": "Black & Slate",
-          "hex": "#1f2020"
+          "hex": "#1f2020",
+          "image": "ipad_mini_1st_gen_blackslate.jpg"
         },
         {
           "name": "White & Silver",
-          "hex": "#f4f4f6"
-        },
-        {
-          "name": "Space Gray",
-          "hex": "#b1b2b7"
+          "hex": "#f4f4f6",
+          "image": "ipad_mini_1st_gen_whitesilver.jpg"
         }
       ],
       "display": {
@@ -5215,15 +5215,17 @@
       "model": "iPad (3rd gen.)",
       "launchYear": 2012,
       "line": "ipad",
-      "device": "ipad_3rdgen.jpg",
+      "device": "ipad_3rd_gen_black.jpg",
       "colors": [
         {
           "name": "Black",
-          "hex": "#000"
+          "hex": "#000",
+          "image": "ipad_3rd_gen_black.jpg"
         },
         {
           "name": "White",
-          "hex": "#f4f4f6"
+          "hex": "#f4f4f6",
+          "image": "ipad_3rd_gen_white.jpg"
         }
       ],
       "display": {
@@ -5318,15 +5320,17 @@
       "model": "iPad (2nd gen.)",
       "launchYear": 2011,
       "line": "ipad",
-      "device": "ipad_2ndgen.jpg",
+      "device": "ipad_2nd_gen_black.jpg",
       "colors": [
         {
           "name": "Black",
-          "hex": "#000"
+          "hex": "#000",
+          "image": "ipad_2nd_gen_black.jpg"
         },
         {
           "name": "White",
-          "hex": "#f4f4f6"
+          "hex": "#f4f4f6",
+          "image": "ipad_2nd_gen_white.jpg"
         }
       ],
       "display": {
@@ -5421,15 +5425,12 @@
       "model": "iPad (1st gen.)",
       "launchYear": 2010,
       "line": "ipad",
-      "device": "ipad_2ndgen.jpg",
+      "device": "ipad_1stgen.jpg",
       "colors": [
         {
           "name": "Black",
-          "hex": "#000"
-        },
-        {
-          "name": "White",
-          "hex": "#f4f4f6"
+          "hex": "#000",
+          "image": "ipad_1stgen.jpg"
         }
       ],
       "display": {
